@@ -9,5 +9,5 @@
 1. Tendo os requisitos acima, acesse a pasta raiz do projeto e utilize o Yarn para instalação das dependências
 `yarn`
 2. Edite o arquivo .env com seu usuário e senha
-3. Importe o schema do banco de dados no PostgreSQL com `yarn prisma db push
+3. Importe o schema do banco de dados no PostgreSQL com `yarn prisma db push`
 4. Execute os seguinte comando para acessar ao prisma cliente `yarn prisma studio`
