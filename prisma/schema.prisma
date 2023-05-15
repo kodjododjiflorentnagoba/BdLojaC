@@ -1,0 +1,26 @@
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Manufacturers {
+  Code              Int       @id @default(autoincrement())
+  Name              String
+
+  productss Products[] 
+
+}
+
+model Products {
+  Code              Int       @id @default(autoincrement())
+  Name              String
+  Price             Decimal   @db.Decimal(10, 2)
+
+  fk_Manufacturers_Code   Manufacturers @relation(fields: [Manufacturer], references: [Code])
+  Manufacturer      Int
+}
