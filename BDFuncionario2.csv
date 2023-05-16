@@ -1,0 +1,653 @@
+Registro;Nome_Completo;Estado_Civil;Escolaridade;Genero;Data_de_Nascimento;Idade;Data_de_Contratacao;Data_de_Demissao;Status;CodCargo;Cargo;Setor;Salário Base;Extra Cidade;Extra Titulação;Salário Bruto;Cidade;Estado;Desempenho_2018;Desempenho_2019;Desempenho_2020;Desempenho_Geral
+201201;Ítalo Diego Teotônio;Solteiro;Mestrado;M;12/09/1990;30;01/01/2013;;Ativo;#9001;Diretor;Geral;18937;210;500;19647;Vitória;ES;0.88;0.87;0.92;0.89
+201202;Jack Bauer;Casado;Pós Graduação;M;21/05/1970;51;01/01/2013;;Ativo;#9001;Diretor;Geral;18937;250;300;19487;Rio de Janeiro;RJ;0.94;0.84;0.94;0.91
+201203;Dexter Morgan;Solteiro;Doutorado;M;10/06/1982;39;01/01/2013;;Ativo;#9001;Diretor;Geral;18937;300;800;20037;São Paulo;SP;0.83;0.9;0.82;0.85
+201204;Randal Pearson;Divorciado;Mestrado;M;18/12/1983;37;01/01/2013;;Ativo;#9001;Diretor;Geral;18937;280;500;19717;Belo Horizonte;MG;0.89;0.94;0.94;0.92
+201205;Dezinho Cunha Silveira;Divorciado;Graduação Incompleta;M;27/11/1987;33;01/01/2013;11/06/2015;Demitido Sem Justa Causa;#1005;Estagiário;Operacional;1100;210;0;1310;Vitória;ES;;;;
+201206;Arlene Azeredo Peres;Divorciado;Graduação Incompleta;F;13/08/1981;40;01/01/2013;31/12/2018;Demitido Sem Justa Causa;#1001;Estagiário;TI;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201207;Andrews Andrade Moraes;Solteiro;Graduação;M;25/02/1982;39;01/01/2013;;Ativo;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;0.62;0.83;0.68;0.71
+201208;Worley Santiago Pensamento;Solteiro;Graduação;M;14/04/1991;30;01/01/2013;;Ativo;#3003;Assistente;Comercial;2678.86;210;200;3088.86;Vitória;ES;0.81;0.8;0.87;0.83
+201209;Polyana Girotto;Casado;Graduação;F;09/11/1987;33;01/01/2013;;Ativo;#5003;Analista II;Comercial;5953.02;300;200;6453.02;São Paulo;SP;0.73;0.87;0.7;0.77
+201210;Jarlania Coimbra Porto;Divorciado;Graduação Incompleta;F;12/03/1993;28;01/01/2013;;Ativo;#1005;Estagiário;Operacional;1100;210;0;1310;Vitória;ES;0.97;0.93;0.89;0.93
+201211;Joviani Mendes Adorno;Solteiro;Pós Graduação;F;09/05/1970;51;01/01/2013;08/02/2020;Demitido Justa Causa;#7002;Supervisor;Financeiro;9285.6;300;300;9885.6;São Paulo;SP;;;;
+201212;André Cândido;Solteiro;Pós Graduação;M;06/12/1991;29;01/01/2013;;Ativo;#5004;Analista II;Recursos Humanos;5196.28;280;300;5776.28;Belo Horizonte;MG;0.75;0.82;0.84;0.8
+201213;Neemias Aragão Patriota;Casado;Graduação;M;06/03/1989;32;01/01/2013;;Ativo;#3006;Assistente;Logística;2345.01;210;200;2755.01;Vitória;ES;0.69;0.98;0.83;0.83
+201214;Valentin Bolsonaro Pestana;Casado;Pós Graduação;M;15/08/1984;37;01/01/2013;;Ativo;#5005;Analista II;Operacional;5673.47;280;300;6253.47;Belo Horizonte;MG;0.83;0.92;0.83;0.86
+201215;Ludmila Oliveira;Solteiro;Pós Graduação;F;08/02/1962;59;01/01/2013;05/02/2019;Demitido Sem Justa Causa;#7001;Supervisor;TI;8291.2;250;300;8841.2;Rio de Janeiro;RJ;;;;
+201216;Joase Adães Meireles;Solteiro;Graduação;M;27/06/1985;36;01/01/2013;03/02/2014;Demitido Justa Causa;#3005;Assistente;Operacional;2553.06;280;200;3033.06;Belo Horizonte;MG;;;;
+201217;Gabriele Santos;Casado;Pós Graduação;F;13/09/1980;41;01/01/2013;;Ativo;#4001;Analista I;TI;3979.77;210;300;4489.77;Vitória;ES;0.75;0.82;0.91;0.83
+201218;Mariane Santos;Solteiro;Graduação;F;05/02/1989;32;01/01/2013;24/03/2016;Demitido Justa Causa;#5005;Analista II;Operacional;5673.47;210;200;6083.47;Vitória;ES;;;;
+201219;Daniel Ribeiro;Casado;Graduação;F;05/12/1989;31;01/01/2013;;Ativo;#4003;Analista I;Comercial;4464.76;250;200;4914.76;Rio de Janeiro;RJ;0.91;0.82;1;0.91
+201220;Fabiana Portella;Casado;Graduação;F;12/08/1980;41;01/01/2013;07/01/2013;Demitido Justa Causa;#5003;Analista II;Comercial;5953.02;300;200;6453.02;São Paulo;SP;;;;
+201221;Almin Assis Gato;Solteiro;Pós Graduação;M;26/07/1991;30;01/01/2013;26/02/2013;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;;;;
+201222;Wagner Cruz;Casado;Pós Graduação;M;16/10/1965;55;01/01/2013;;Ativo;#4002;Analista I;Financeiro;4457.08;300;300;5057.08;São Paulo;SP;0.93;1;0.77;0.9
+201223;Decimo Fontes Sacramento;Solteiro;Graduação;M;05/02/1988;33;01/01/2013;;Ativo;#3006;Assistente;Logística;2345.01;210;200;2755.01;Vitória;ES;0.83;0.96;0.8;0.86
+201224;Leuzanira Mairinque Carvalho;Solteiro;Pós Graduação;F;15/06/1970;51;01/01/2013;19/12/2015;Saída por Vontade do Colaborador;#3002;Assistente;Financeiro;2674.25;250;300;3224.25;Rio de Janeiro;RJ;;;;
+201225;Dhemeson Massa Ascensão;Solteiro;Graduação;M;08/04/1971;50;01/01/2013;;Ativo;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;0.65;1;0.78;0.81
+201226;Adevenil Garrastazu Matos;Casado;Graduação;M;13/12/1970;50;01/01/2013;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;210;200;2748.32;Vitória;ES;0.85;1;0.74;0.86
+201227;Tiaga Guimarães Serra;Divorciado;Graduação Incompleta;M;05/10/1988;33;01/01/2013;;Ativo;#1002;Estagiário;Financeiro;1100;300;0;1400;São Paulo;SP;0.9;0.84;0.78;0.84
+201228;Jarliane Bragança Velasques;Solteiro;Graduação;F;29/04/1970;51;01/01/2013;;Ativo;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;1;0.96;0.68;0.88
+201229;Gleb Saramago Camargo;Divorciado;Graduação;M;25/12/1989;31;01/01/2013;10/08/2017;Demitido Sem Justa Causa;#7002;Supervisor;Financeiro;9285.6;250;200;9735.6;Rio de Janeiro;RJ;;;;
+201230;Jose Carlos De Matos Filho;Solteiro;Pós Graduação;M;09/04/1966;55;01/01/2013;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;210;300;4407.21;Vitória;ES;0.94;0.86;1;0.93
+201231;Laudomiro Matos Vasconcelos;Casado;Graduação;M;05/03/1975;46;01/01/2013;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.93;0.86;1;0.93
+201232;Andressa Da Silva Quintã;Casado;Graduação;F;31/08/1987;34;01/01/2013;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;300;200;4397.21;São Paulo;SP;0.71;0.8;0.69;0.73
+201233;Raiany Cruz;Solteiro;Graduação;F;15/06/1988;33;01/01/2013;;Ativo;#4002;Analista I;Financeiro;4457.08;300;200;4957.08;São Paulo;SP;0.8;0.97;0.69;0.82
+201234;Vivian Correa;Solteiro;Graduação;F;08/05/1969;52;01/01/2013;18/02/2016;Demitido Sem Justa Causa;#4006;Analista I;Logística;3908.35;300;200;4408.35;São Paulo;SP;;;;
+201235;Antonis Porto Silva;Divorciado;Graduação Incompleta;M;21/12/1990;30;01/01/2013;;Ativo;#1002;Estagiário;Financeiro;1100;210;0;1310;Vitória;ES;0.71;0.82;0.94;0.82
+201236;Giselle Correa;Casado;Mestrado;F;12/06/1987;34;01/01/2013;;Ativo;#8003;Gerente;Comercial;11627;300;500;12427;São Paulo;SP;0.69;0.85;0.68;0.74
+201237;Auguto Carvalhosa Encarnação;Casado;Mestrado;M;04/10/1960;61;01/01/2013;;Ativo;#8002;Gerente;Financeiro;11607;210;500;12317;Vitória;ES;0.93;0.9;0.84;0.89
+201238;Astenio Arruda Bicalho;Casado;Graduação;M;22/09/1963;58;01/01/2013;01/08/2017;Demitido Sem Justa Causa;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;;;;
+201239;Begson Menino Curado;Solteiro;Pós Graduação;M;27/12/1973;47;01/01/2013;;Ativo;#3006;Assistente;Logística;2345.01;300;300;2945.01;São Paulo;SP;1;0.87;0.65;0.84
+201240;Evandrea Zampol Brandão;Casado;Graduação;F;26/09/1975;46;01/01/2013;18/12/2019;Demitido Justa Causa;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;;;;
+201241;Adelcidio Camões Bandeira;Solteiro;Pós Graduação;M;18/03/1988;33;01/01/2013;30/11/2015;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;250;300;5014.76;Rio de Janeiro;RJ;;;;
+201242;Arnelindo Madureira Anjos;Solteiro;Graduação;M;24/01/1991;30;01/01/2013;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;300;200;2838.32;São Paulo;SP;1;0.98;0.8;0.93
+201243;Marieli Medeiros;Solteiro;Pós Graduação;F;10/08/1964;57;09/01/2013;16/01/2014;Demitido Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;250;300;4447.21;Rio de Janeiro;RJ;;;;
+201244;Analzira Valadares Amigo;Viúvo;Graduação Incompleta;F;23/03/1974;47;09/01/2013;;Ativo;#1001;Estagiário;TI;1100;280;0;1380;Belo Horizonte;MG;0.69;0.94;0.9;0.84
+201245;Agnailton Santiago Sampaio;União Estável;Graduação Incompleta;M;16/09/1984;37;11/01/2013;23/12/2019;Saída por Vontade do Colaborador;#1005;Estagiário;Operacional;1100;280;0;1380;Belo Horizonte;MG;;;;
+201246;Francielli Ulguim;Casado;Graduação;F;20/11/1990;30;28/01/2013;;Ativo;#4006;Analista I;Logística;3908.35;280;200;4388.35;Belo Horizonte;MG;0.69;0.82;0.86;0.79
+201247;Carlinda Farias Ramos;Solteiro;Graduação;F;29/06/1988;33;28/01/2013;21/11/2013;Demitido Justa Causa;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;;;;
+201248;Uelliton Matos Figueiroa;Solteiro;Graduação;M;09/07/1972;49;29/01/2013;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;280;200;2818.32;Belo Horizonte;MG;0.82;0.87;0.66;0.78
+201249;Anatricia Bueno Figueiroa;Viúvo;Graduação Incompleta;F;22/04/1973;48;10/02/2013;;Ativo;#1001;Estagiário;TI;1100;280;0;1380;Belo Horizonte;MG;0.98;0.93;0.78;0.9
+201250;Aier Leme Papanicolau;Solteiro;Graduação;M;11/08/1994;27;19/02/2013;;Ativo;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;0.82;0.94;0.68;0.81
+201251;Mariclea Brandão Queiroz;Solteiro;Graduação Incompleta;F;11/10/1986;34;26/02/2013;03/09/2019;Demitido Justa Causa;#1002;Estagiário;Financeiro;1100;210;0;1310;Vitória;ES;;;;
+201252;Celerino Sampaio Gonçales;Solteiro;Graduação;M;21/12/1982;38;08/03/2013;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;0.62;0.89;0.86;0.79
+201253;Jessica Ferrante Nascimento;Solteiro;Pós Graduação;F;09/09/1985;36;09/03/2013;;Ativo;#7003;Supervisor;Comercial;9301.6;280;300;9881.6;Belo Horizonte;MG;0.95;0.95;0.72;0.87
+201254;Nicolli Correia;Casado;Graduação;M;26/08/1978;43;15/03/2013;02/03/2014;Demitido Sem Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;280;200;4377.21;Belo Horizonte;MG;;;;
+201255;Lincoln Sanches;Solteiro;Pós Graduação;M;15/08/1984;37;20/03/2013;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;250;300;4447.21;Rio de Janeiro;RJ;0.97;0.89;0.69;0.85
+201256;Maria Hosana Teixeira Da Silva;Casado;Graduação;F;03/05/1985;36;21/03/2013;;Ativo;#7004;Supervisor;Recursos Humanos;8119.2;210;200;8529.2;Vitória;ES;0.71;0.97;0.84;0.84
+201257;Enelzita Hungria Mendonça;Solteiro;Graduação Incompleta;F;25/02/1968;53;01/04/2013;;Ativo;#1003;Estagiário;Comercial;1100;280;0;1380;Belo Horizonte;MG;0.6;0.96;0.66;0.74
+201258;Celestrina Malafaia Naves;Solteiro;Graduação;F;28/09/1974;47;04/04/2013;;Ativo;#5006;Analista II;Logística;5211.13;250;200;5661.13;Rio de Janeiro;RJ;0.81;0.95;0.8;0.85
+201259;Agnaldo Vasconcelos;Solteiro;Pós Graduação;M;10/07/1975;46;08/04/2013;;Ativo;#6002;Analista III;Financeiro;7428.48;300;300;8028.48;São Paulo;SP;0.84;0.92;0.71;0.82
+201260;Alirio Anes Pimentel;Solteiro;Graduação;M;12/10/1970;50;11/04/2013;;Ativo;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;0.63;1;0.66;0.76
+201261;Barbara Teixeira;Solteiro;Pós Graduação;F;26/08/1971;50;14/04/2013;;Ativo;#4006;Analista I;Logística;3908.35;300;300;4508.35;São Paulo;SP;0.84;0.82;0.77;0.81
+201262;Bruna Camilo Glavas;Solteiro;Graduação;F;26/05/1992;29;18/04/2013;;Ativo;#7001;Supervisor;TI;8291.2;300;200;8791.2;São Paulo;SP;0.72;1;0.76;0.83
+201263;Diomilson Bolsonaro Locatelli;Solteiro;Graduação;M;18/08/1992;29;19/04/2013;06/07/2019;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;210;200;4867.08;Vitória;ES;;;;
+201264;Rosimeire Borges Alcântara;Casado;Pós Graduação;F;10/01/1962;59;20/04/2013;;Ativo;#8002;Gerente;Financeiro;11607;300;300;12207;São Paulo;SP;0.94;0.96;0.66;0.85
+201265;Cleidiana Leitão Valente;Solteiro;Pós Graduação;F;15/11/1983;37;24/04/2013;;Ativo;#4002;Analista I;Financeiro;4457.08;280;300;5037.08;Belo Horizonte;MG;0.93;0.88;0.88;0.9
+201266;Dalvan Alencar Eça;Viúvo;Pós Graduação;M;01/05/1977;44;30/04/2013;20/07/2019;Saída por Vontade do Colaborador;#5003;Analista II;Comercial;5953.02;280;300;6533.02;Belo Horizonte;MG;;;;
+201267;Aurecina Alvim Morato;Casado;Graduação;F;07/07/1967;54;08/05/2013;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.81;0.94;0.7;0.82
+201268;Enagio Poeta Álvares;Solteiro;Graduação;M;29/08/1971;50;10/05/2013;19/11/2019;Demitido Justa Causa;#5004;Analista II;Recursos Humanos;5196.28;250;200;5646.28;Rio de Janeiro;RJ;;;;
+201269;Bryan Uchoa Arruda;Casado;Graduação;M;07/07/1981;40;14/05/2013;;Ativo;#4001;Analista I;TI;3979.77;300;200;4479.77;São Paulo;SP;0.78;0.83;0.79;0.8
+201270;Leticia Pereira;Solteiro;Mestrado;F;28/10/1988;32;14/05/2013;11/09/2013;Demitido Justa Causa;#7006;Supervisor;Logística;8142.4;280;500;8922.4;Belo Horizonte;MG;;;;
+201271;Monique Helena Mazucheli;Casado;Graduação;F;08/06/1960;61;15/05/2013;26/05/2018;Demitido Sem Justa Causa;#4002;Analista I;Financeiro;4457.08;210;200;4867.08;Vitória;ES;;;;
+201272;Micaio Patriota Sousa;Concubinato;Graduação;M;09/03/1995;26;25/05/2013;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.74;0.9;0.75;0.8
+201273;Deidid Pires Adorno;Solteiro;Graduação;M;11/01/1984;37;27/05/2013;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;210;200;2748.32;Vitória;ES;0.98;0.99;0.72;0.9
+201274;Laerti Nascimento Anjos;Solteiro;Graduação;M;06/06/1985;36;27/05/2013;;Ativo;#3001;Assistente;TI;2387.86;250;200;2837.86;Rio de Janeiro;RJ;0.63;0.84;0.95;0.81
+201275;Cleucineia Tavares Fioravante;União Estável;Graduação;F;11/06/1968;53;01/06/2013;;Ativo;#4006;Analista I;Logística;3908.35;250;200;4358.35;Rio de Janeiro;RJ;0.72;0.84;0.68;0.75
+201276;Daiane Almeida;Solteiro;Pós Graduação;F;15/12/1961;59;04/06/2013;;Ativo;#6004;Analista III;Recursos Humanos;6495.36;300;300;7095.36;São Paulo;SP;0.94;0.84;0.98;0.92
+201277;Luciano Cunha Santiago;Divorciado;Graduação;M;04/11/1991;29;06/06/2013;;Ativo;#5006;Analista II;Logística;5211.13;280;200;5691.13;Belo Horizonte;MG;0.77;0.91;0.67;0.78
+201278;Denivan Alcântara Santarrosa;Casado;Graduação Incompleta;M;23/11/1962;58;08/06/2013;;Ativo;#1001;Estagiário;TI;1100;210;0;1310;Vitória;ES;0.6;0.9;0.68;0.73
+201279;Daivison Machado Uribe;Divorciado;Pós Graduação;M;03/03/1979;42;17/06/2013;24/09/2014;Demitido Justa Causa;#5002;Analista II;Financeiro;5942.78;250;300;6492.78;Rio de Janeiro;RJ;;;;
+201280;Adevilson Moro Porto;Solteiro;Graduação;M;08/06/1981;40;24/06/2013;;Ativo;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;0.83;0.92;0.76;0.84
+201281;Iovane Pessoa Anes;Casado;Graduação;M;02/04/1984;37;27/06/2013;13/05/2019;Saída por Vontade do Colaborador;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;;;;
+201282;Gilcivaldo Seixas Simões;Solteiro;Graduação;M;23/08/1985;36;30/06/2013;06/11/2014;Demitido Sem Justa Causa;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;;;;
+201283;Dorinho Pestana Ramalhete;Solteiro;Graduação;M;18/09/1970;51;01/07/2013;;Ativo;#3002;Assistente;Financeiro;2674.25;210;200;3084.25;Vitória;ES;0.88;0.9;0.69;0.82
+201284;Angenor Porto Naves;Solteiro;Pós Graduação;M;29/12/1971;49;01/07/2013;03/04/2017;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;280;300;5044.76;Belo Horizonte;MG;;;;
+201285;Gustavo Delphine;Solteiro;Graduação;M;07/08/1984;37;01/07/2013;15/11/2015;Demitido Sem Justa Causa;#7005;Supervisor;Operacional;8864.8;250;200;9314.8;Rio de Janeiro;RJ;;;;
+201286;Erimilson Miranda Aleluia;Solteiro;Graduação;M;20/05/1964;57;01/07/2013;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;280;200;2818.32;Belo Horizonte;MG;0.76;0.92;0.79;0.82
+201287;Aiana Quaresma Pedrosa;Viúvo;Graduação;F;22/05/1976;45;01/07/2013;22/12/2019;Demitido Sem Justa Causa;#6006;Analista III;Logística;6513.92;280;200;6993.92;Belo Horizonte;MG;;;;
+201288;Andrenildo Pessoa Camões;Divorciado;Graduação Incompleta;M;17/04/1978;43;01/07/2013;;Ativo;#1006;Estagiário;Logística;1100;280;0;1380;Belo Horizonte;MG;0.79;0.99;0.93;0.9
+201289;Tifany Torres;Solteiro;Pós Graduação;F;24/08/1963;58;01/07/2013;;Ativo;#7005;Supervisor;Operacional;8864.8;210;300;9374.8;Vitória;ES;0.9;0.8;0.82;0.84
+201290;Elleny Nunes Junqueira;Solteiro;Pós Graduação;F;01/08/1984;37;01/07/2013;;Ativo;#4005;Analista I;Operacional;4255.1;300;300;4855.1;São Paulo;SP;0.92;0.96;0.93;0.94
+201291;Juliana Barros;Solteiro;Graduação;F;30/06/1979;42;01/07/2013;;Ativo;#6005;Analista III;Operacional;7091.84;250;200;7541.84;Rio de Janeiro;RJ;0.87;0.82;0.77;0.82
+201292;Andresa Santos;Solteiro;Pós Graduação;F;11/03/1982;39;01/07/2013;;Ativo;#4006;Analista I;Logística;3908.35;210;300;4418.35;Vitória;ES;0.61;1;0.92;0.84
+201293;Vanes Homem Zampol;Solteiro;Graduação;F;11/11/1976;44;01/07/2013;05/01/2015;Demitido Justa Causa;#3004;Assistente;Recursos Humanos;2338.32;210;200;2748.32;Vitória;ES;;;;
+201294;Priscila Ivan;Casado;Pós Graduação;F;25/01/1979;42;01/07/2013;13/11/2016;Demitido Sem Justa Causa;#4005;Analista I;Operacional;4255.1;300;300;4855.1;São Paulo;SP;;;;
+201295;Fernanda Luz;Solteiro;Mestrado;M;01/02/1979;42;01/07/2013;26/11/2016;Demitido Sem Justa Causa;#7006;Supervisor;Logística;8142.4;300;500;8942.4;São Paulo;SP;;;;
+201296;Lionarda Ferreira Valença;Solteiro;Graduação;F;28/09/1986;35;01/07/2013;12/11/2014;Saída por Vontade do Colaborador;#5004;Analista II;Recursos Humanos;5196.28;250;200;5646.28;Rio de Janeiro;RJ;;;;
+201297;Afrisio Borges Rodrigues;Casado;Graduação;M;26/01/1987;34;01/07/2013;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.94;0.9;0.92;0.92
+201298;Carson Adães Braga;Solteiro;Mestrado;M;28/07/1969;52;01/07/2013;;Ativo;#8005;Gerente;Operacional;11081;250;500;11831;Rio de Janeiro;RJ;0.75;0.92;0.84;0.84
+201299;Arivone Uribe Moro;Divorciado;Graduação Incompleta;F;22/03/1981;40;01/07/2013;24/12/2014;Demitido Sem Justa Causa;#1004;Estagiário;Recursos Humanos;1100;280;0;1380;Belo Horizonte;MG;;;;
+201300;Marcia Custodio;Casado;Pós Graduação;F;13/09/1981;40;01/07/2013;;Ativo;#4006;Analista I;Logística;3908.35;280;300;4488.35;Belo Horizonte;MG;0.89;0.96;0.75;0.87
+201301;Edgar Fagundes Ferreira;Divorciado;Doutorado;M;25/07/1992;29;01/07/2013;;Ativo;#8002;Gerente;Financeiro;11607;300;800;12707;São Paulo;SP;0.95;0.86;0.84;0.88
+201302;Michele Teixeira;Casado;Pós Graduação;F;29/08/1980;41;01/07/2013;16/03/2018;Demitido Justa Causa;#4005;Analista I;Operacional;4255.1;210;300;4765.1;Vitória;ES;;;;
+201303;Farlen Silveira Azevedo;Casado;Graduação;M;10/10/1975;45;01/07/2013;;Ativo;#4002;Analista I;Financeiro;4457.08;210;200;4867.08;Vitória;ES;0.69;0.95;0.89;0.84
+201304;Douglas Garcia;Casado;Mestrado;M;19/03/1983;38;01/07/2013;04/04/2016;Demitido Justa Causa;#7005;Supervisor;Operacional;8864.8;280;500;9644.8;Belo Horizonte;MG;;;;
+201305;Magneide Hernandes Carnaval;Solteiro;Graduação;F;15/06/1971;50;01/07/2013;;Ativo;#6002;Analista III;Financeiro;7428.48;250;200;7878.48;Rio de Janeiro;RJ;0.6;0.89;0.89;0.79
+201306;Adroir Mendes Bicalho;Solteiro;Pós Graduação;M;15/08/1989;32;01/07/2013;31/08/2015;Demitido Justa Causa;#4001;Analista I;TI;3979.77;210;300;4489.77;Vitória;ES;;;;
+201307;Claudio Pereira;Solteiro;Graduação;M;20/04/1971;50;01/07/2013;30/04/2014;Demitido Justa Causa;#7004;Supervisor;Recursos Humanos;8119.2;210;200;8529.2;Vitória;ES;;;;
+201308;Laciana Anchieta Alvim;Solteiro;Graduação;F;28/09/1982;39;01/07/2013;;Ativo;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;0.6;0.98;0.67;0.75
+201309;Aldacino Aleluia Paiva;Solteiro;Graduação;M;15/06/1982;39;01/07/2013;11/10/2016;Demitido Justa Causa;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;;;;
+201310;Pieter Mendonça Siqueira;União Estável;Graduação;M;26/08/1981;40;01/07/2013;;Ativo;#5004;Analista II;Recursos Humanos;5196.28;250;200;5646.28;Rio de Janeiro;RJ;0.67;0.82;0.96;0.82
+201311;Agapto Azevedo Santacruz;Divorciado;Pós Graduação;M;12/10/1991;29;01/07/2013;;Ativo;#7003;Supervisor;Comercial;9301.6;250;300;9851.6;Rio de Janeiro;RJ;0.94;0.97;0.67;0.86
+201312;Ingrind Roma Guimarães;Casado;Pós Graduação;F;13/12/1978;42;01/07/2013;09/03/2014;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;;;;
+201313;Gabriel Henrique Freitas Foleis;Casado;Pós Graduação;M;14/01/1993;28;01/07/2013;26/09/2018;Demitido Justa Causa;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;;;;
+201314;Maria Paula;Solteiro;Pós Graduação;F;08/05/1983;38;01/07/2013;;Ativo;#6005;Analista III;Operacional;7091.84;300;300;7691.84;São Paulo;SP;0.9;0.98;0.68;0.85
+201315;Carlio Menino Alvarenga;Solteiro;Graduação;M;06/04/1985;36;01/07/2013;;Ativo;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;0.88;0.99;0.88;0.92
+201316;Denise Walter;Solteiro;Pós Graduação;F;23/10/1973;47;01/07/2013;07/11/2017;Demitido Sem Justa Causa;#7006;Supervisor;Logística;8142.4;210;300;8652.4;Vitória;ES;;;;
+201317;Adrinaldo Machado Pestana;Casado;Graduação;M;06/05/1993;28;01/07/2013;;Ativo;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;0.83;0.87;0.93;0.88
+201318;Benegilson Gama Guimarães;Solteiro;Pós Graduação;M;20/04/1985;36;01/07/2013;06/04/2014;Saída por Vontade do Colaborador;#4004;Analista I;Recursos Humanos;3897.21;210;300;4407.21;Vitória;ES;;;;
+201319;Grenia Pinto Alvarenga;Solteiro;Graduação;F;17/07/1972;49;01/07/2013;;Ativo;#4006;Analista I;Logística;3908.35;210;200;4318.35;Vitória;ES;0.82;0.94;0.9;0.89
+201320;Giovanna Silverio;Solteiro;Pós Graduação;F;13/07/1990;31;01/07/2013;01/07/2019;Demitido Justa Causa;#4005;Analista I;Operacional;4255.1;300;300;4855.1;São Paulo;SP;;;;
+201321;Debora Silva;Solteiro;Graduação;F;22/07/1989;32;11/07/2013;;Ativo;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;0.8;0.85;0.93;0.86
+201322;Wellenton Coutinho Valadares;Solteiro;Pós Graduação;M;25/07/1984;37;13/07/2013;;Ativo;#4003;Analista I;Comercial;4464.76;300;300;5064.76;São Paulo;SP;0.82;0.87;0.84;0.84
+201323;Luana Fernandes;Solteiro;Graduação;F;07/06/1969;52;15/07/2013;;Ativo;#6004;Analista III;Recursos Humanos;6495.36;250;200;6945.36;Rio de Janeiro;RJ;1;0.84;0.85;0.9
+201324;Ismeralda Teixeira Morais;Solteiro;Graduação;F;26/03/1990;31;17/07/2013;;Ativo;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;0.82;1;0.97;0.93
+201325;Arieli Bertholo;Casado;Pós Graduação;F;25/08/1970;51;18/07/2013;;Ativo;#4002;Analista I;Financeiro;4457.08;250;300;5007.08;Rio de Janeiro;RJ;0.6;0.95;0.75;0.77
+201326;Eviene Prudente Pascal;União Estável;Graduação;F;13/10/1987;33;18/07/2013;11/10/2019;Demitido Sem Justa Causa;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;;
+201327;Ednesia Evangelista Ustra;Solteiro;Pós Graduação;F;20/07/1985;36;25/07/2013;19/11/2013;Demitido Sem Justa Causa;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;;;;
+201328;Adolfo Navarro Vasques;União Estável;Graduação;M;05/12/1984;36;30/07/2013;12/10/2016;Saída por Vontade do Colaborador;#6004;Analista III;Recursos Humanos;6495.36;300;200;6995.36;São Paulo;SP;;;;
+201329;Antonilson Siqueira Furquim;Solteiro;Graduação;M;14/02/1978;43;31/07/2013;11/01/2020;Demitido Justa Causa;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;;
+201330;Everli Ferrolho Cabral;Divorciado;Pós Graduação;F;26/02/1986;35;31/07/2013;;Ativo;#7003;Supervisor;Comercial;9301.6;300;300;9901.6;São Paulo;SP;0.86;0.96;0.8;0.87
+201331;Marne Carmo Dias;Casado;Graduação;M;04/05/1987;34;01/08/2013;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;250;200;4347.21;Rio de Janeiro;RJ;0.73;0.99;0.93;0.88
+201332;Apoliane Ferrolho Batista;Casado;Pós Graduação;F;26/11/1960;60;29/08/2013;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;300;2888.32;Rio de Janeiro;RJ;0.7;0.88;0.66;0.75
+201333;Duarte Mendes Magalhães;Casado;Pós Graduação;M;26/06/1970;51;31/08/2013;25/12/2013;Demitido Sem Justa Causa;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;;;;
+201334;Aldionor Gama Batista;Solteiro;Graduação;M;23/08/1987;34;01/09/2013;25/02/2016;Demitido Justa Causa;#6002;Analista III;Financeiro;7428.48;300;200;7928.48;São Paulo;SP;;;;
+201335;Igor Seno;Solteiro;Graduação;M;10/05/1995;26;11/09/2013;;Ativo;#5002;Analista II;Financeiro;5942.78;250;200;6392.78;Rio de Janeiro;RJ;0.66;0.91;0.84;0.8
+201336;Jaqueline Brandt;Solteiro;Pós Graduação;F;08/11/1981;39;14/09/2013;;Ativo;#7002;Supervisor;Financeiro;9285.6;280;300;9865.6;Belo Horizonte;MG;0.92;0.99;0.93;0.95
+201337;Adenilto Pestana Romão;Solteiro;Graduação;M;05/09/1992;29;14/09/2013;;Ativo;#3003;Assistente;Comercial;2678.86;210;200;3088.86;Vitória;ES;0.9;0.93;0.72;0.85
+201338;Geovanna Brito;Casado;Pós Graduação;F;02/02/1964;57;18/09/2013;15/07/2017;Demitido Sem Justa Causa;#7002;Supervisor;Financeiro;9285.6;300;300;9885.6;São Paulo;SP;;;;
+201339;Ormeu Nantes Carvalhal;Casado;Graduação Incompleta;M;22/02/1960;61;19/09/2013;;Ativo;#1004;Estagiário;Recursos Humanos;1100;210;0;1310;Vitória;ES;0.93;0.9;0.94;0.92
+201340;Adelvano Aleluia Rios;Viúvo;Pós Graduação;M;11/08/1975;46;05/10/2013;22/01/2016;Demitido Justa Causa;#7001;Supervisor;TI;8291.2;280;300;8871.2;Belo Horizonte;MG;;;;
+201341;Anax Vilhena Adães;Solteiro;Graduação;M;05/02/1994;27;16/10/2013;18/04/2020;Demitido Sem Justa Causa;#3006;Assistente;Logística;2345.01;210;200;2755.01;Vitória;ES;;;;
+201342;Vitória Novello Sanches;Casado;Pós Graduação;F;14/10/1989;31;19/10/2013;;Ativo;#8003;Gerente;Comercial;11627;280;300;12207;Belo Horizonte;MG;0.74;0.97;0.9;0.87
+201343;Jeremias Nunes Fernandes;Solteiro;Graduação;M;08/12/1968;52;17/11/2013;25/03/2014;Demitido Justa Causa;#5006;Analista II;Logística;5211.13;300;200;5711.13;São Paulo;SP;;;;
+201344;Lissandro Noronha Tavares;Viúvo;Pós Graduação;M;02/12/1973;47;19/11/2013;;Ativo;#8002;Gerente;Financeiro;11607;210;300;12117;Vitória;ES;0.97;0.9;0.73;0.87
+201345;Andreas Quaresma Amorim;Divorciado;Mestrado;M;02/03/1995;26;23/11/2013;27/03/2015;Demitido Justa Causa;#7001;Supervisor;TI;8291.2;280;500;9071.2;Belo Horizonte;MG;;;;
+201346;Alciso Arruda Zampol;Divorciado;Graduação;M;17/11/1963;57;27/11/2013;;Ativo;#4001;Analista I;TI;3979.77;210;200;4389.77;Vitória;ES;0.88;0.9;0.93;0.9
+201347;Edissandra Nunes Gonçalves;Solteiro;Graduação;F;09/11/1980;40;30/11/2013;;Ativo;#5001;Analista II;TI;5306.36;300;200;5806.36;São Paulo;SP;0.79;0.99;0.72;0.83
+201348;Lilian Bossa;Solteiro;Graduação;F;10/12/1988;32;08/12/2013;21/03/2017;Demitido Justa Causa;#5003;Analista II;Comercial;5953.02;300;200;6453.02;São Paulo;SP;;;;
+201349;Ciciro Santiago Varela;Casado;Graduação;M;02/08/1986;35;27/12/2013;15/11/2015;Saída por Vontade do Colaborador;#4004;Analista I;Recursos Humanos;3897.21;300;200;4397.21;São Paulo;SP;;;;
+201350;Aylan Ferreira Santana;Solteiro;Graduação Incompleta;M;25/07/1971;50;28/12/2013;;Ativo;#1005;Estagiário;Operacional;1100;280;0;1380;Belo Horizonte;MG;0.78;0.92;0.98;0.89
+201351;Thaila Godoy;Solteiro;Pós Graduação;F;19/10/1967;53;02/01/2014;03/06/2015;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;300;300;4508.35;São Paulo;SP;;;;
+201352;Mariana Bernardes;Solteiro;Graduação;F;18/12/1978;42;03/01/2014;;Ativo;#7001;Supervisor;TI;8291.2;210;200;8701.2;Vitória;ES;0.6;0.92;0.91;0.81
+201353;Kesllen Cruz Barbosa;Casado;Graduação;F;23/03/1966;55;08/01/2014;12/11/2014;Demitido Sem Justa Causa;#4001;Analista I;TI;3979.77;280;200;4459.77;Belo Horizonte;MG;;;;
+201354;Patricia Neves;Solteiro;Mestrado;F;16/05/1967;54;11/01/2014;23/10/2015;Demitido Sem Justa Causa;#8002;Gerente;Financeiro;11607;280;500;12387;Belo Horizonte;MG;;;;
+201355;Liciana Viana Santander;Divorciado;Graduação Incompleta;F;16/03/1995;26;12/01/2014;09/03/2017;Demitido Justa Causa;#1004;Estagiário;Recursos Humanos;1100;280;0;1380;Belo Horizonte;MG;;;;
+201356;Norto Gusmão Pais;Divorciado;Graduação Incompleta;M;19/12/1980;40;22/01/2014;06/07/2015;Demitido Justa Causa;#1004;Estagiário;Recursos Humanos;1100;210;0;1310;Vitória;ES;;;;
+201357;José Ramalho Figueiredo;Divorciado;Pós Graduação;M;03/09/1986;35;30/01/2014;14/11/2016;Demitido Justa Causa;#6005;Analista III;Operacional;7091.84;300;300;7691.84;São Paulo;SP;;;;
+201358;Edreson Nóbrega Oliva;Solteiro;Graduação;M;09/12/1962;58;03/02/2014;;Ativo;#3005;Assistente;Operacional;2553.06;250;200;3003.06;Rio de Janeiro;RJ;0.79;1;0.98;0.92
+201359;Dimilson Mendes Carvalhal;Casado;Graduação;M;15/01/1981;40;07/02/2014;;Ativo;#4002;Analista I;Financeiro;4457.08;280;200;4937.08;Belo Horizonte;MG;0.81;0.93;0.85;0.86
+201360;Giovanna Firmino;Casado;Graduação;F;17/01/1985;36;11/02/2014;;Ativo;#5002;Analista II;Financeiro;5942.78;250;200;6392.78;Rio de Janeiro;RJ;0.77;0.81;0.86;0.81
+201361;Aodair Brasil Anes;Casado;Graduação;M;07/03/1966;55;16/02/2014;19/12/2019;Demitido Justa Causa;#3001;Assistente;TI;2387.86;250;200;2837.86;Rio de Janeiro;RJ;;;;
+201362;Paloma Barion;Solteiro;Graduação;F;09/09/1967;54;07/03/2014;;Ativo;#7003;Supervisor;Comercial;9301.6;210;200;9711.6;Vitória;ES;0.85;0.9;0.65;0.8
+201363;Evangelio Vieira Varela;Solteiro;Pós Graduação;M;03/12/1970;50;07/03/2014;;Ativo;#4001;Analista I;TI;3979.77;250;300;4529.77;Rio de Janeiro;RJ;0.7;1;0.69;0.8
+201364;Gislandi Oliva Tavares;Solteiro;Pós Graduação;F;31/10/1966;54;12/03/2014;06/10/2015;Saída por Vontade do Colaborador;#4006;Analista I;Logística;3908.35;210;300;4418.35;Vitória;ES;;;;
+201365;Josiclesia Ferrão Massa;Casado;Graduação;F;12/05/1982;39;15/03/2014;;Ativo;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;0.73;0.84;0.68;0.75
+201366;Carla Furquim Vasques;Solteiro;Pós Graduação;F;22/04/1989;32;21/03/2014;;Ativo;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;0.82;0.91;0.65;0.79
+201367;Samuel Bispo;Solteiro;Pós Graduação;M;09/06/1983;38;29/03/2014;;Ativo;#5001;Analista II;TI;5306.36;210;300;5816.36;Vitória;ES;0.79;0.87;0.84;0.83
+201368;Zidorio Aguiar Marques;Solteiro;Graduação;M;05/12/1984;36;02/04/2014;13/04/2017;Demitido Sem Justa Causa;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;;;;
+201369;Rebeca Hildebrand Ferreira;Solteiro;Pós Graduação;F;05/04/1973;48;08/04/2014;19/12/2016;Demitido Sem Justa Causa;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;;;;
+201370;Murilo Figueiredo;Solteiro;Graduação;M;25/09/1994;27;09/04/2014;30/12/2015;Saída por Vontade do Colaborador;#4004;Analista I;Recursos Humanos;3897.21;250;200;4347.21;Rio de Janeiro;RJ;;;;
+201371;Julyan Fagundes Ramalho;Casado;Graduação;M;16/03/1994;27;23/04/2014;30/11/2014;Saída por Vontade do Colaborador;#4003;Analista I;Comercial;4464.76;280;200;4944.76;Belo Horizonte;MG;;;;
+201372;Jennifer Nunes;Casado;Graduação;F;08/04/1984;37;01/05/2014;21/04/2015;Saída por Vontade do Colaborador;#7003;Supervisor;Comercial;9301.6;210;200;9711.6;Vitória;ES;;;;
+201373;Gregório Ustra Locatelli;União Estável;Graduação;M;15/01/1962;59;01/05/2014;;Ativo;#3001;Assistente;TI;2387.86;280;200;2867.86;Belo Horizonte;MG;0.89;0.94;0.66;0.83
+201374;Juliane Suzze Pereira;Casado;Graduação;F;24/06/1966;55;02/05/2014;27/02/2020;Demitido Justa Causa;#7003;Supervisor;Comercial;9301.6;280;200;9781.6;Belo Horizonte;MG;;;;
+201375;Eutalio Soares Martins;Solteiro;Graduação;M;29/11/1969;51;04/05/2014;;Ativo;#3005;Assistente;Operacional;2553.06;250;200;3003.06;Rio de Janeiro;RJ;0.92;0.92;0.96;0.93
+201376;Angelo Padrão Maduro;Divorciado;Graduação Incompleta;M;06/10/1983;37;11/05/2014;;Ativo;#1005;Estagiário;Operacional;1100;210;0;1310;Vitória;ES;0.71;0.83;0.99;0.84
+201377;Eleneuda Ramos Moro;Casado;Graduação Incompleta;F;29/03/1962;59;14/05/2014;;Ativo;#1003;Estagiário;Comercial;1100;250;0;1350;Rio de Janeiro;RJ;0.72;0.81;0.68;0.74
+201378;Dionis Holanda Borges;Casado;Graduação;M;07/10/1983;37;22/05/2014;01/10/2019;Demitido Justa Causa;#3001;Assistente;TI;2387.86;250;200;2837.86;Rio de Janeiro;RJ;;;;
+201379;Ediro Dambros Falqueto;Solteiro;Graduação;M;12/02/1988;33;25/05/2014;30/07/2016;Demitido Justa Causa;#7003;Supervisor;Comercial;9301.6;300;200;9801.6;São Paulo;SP;;;;
+201380;Amabilin Pascoal Nunes;Casado;Graduação;F;05/04/1986;35;26/05/2014;;Ativo;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;0.88;0.8;0.98;0.89
+201381;Albero Bernardes Ferreira;Casado;Graduação Incompleta;M;17/04/1961;60;26/05/2014;;Ativo;#1001;Estagiário;TI;1100;300;0;1400;São Paulo;SP;0.68;0.81;0.95;0.81
+201382;Alessandra Santos;Solteiro;Pós Graduação;F;15/05/1991;30;04/06/2014;;Ativo;#8006;Gerente;Logística;10178;300;300;10778;São Paulo;SP;0.81;0.9;0.86;0.86
+201383;Lidinaldo Vaz Guimarães;Divorciado;Graduação;M;10/05/1986;35;07/06/2014;31/12/2019;Demitido Justa Causa;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;;;;
+201384;Biraelson Bernades Varela;Solteiro;Graduação;M;05/05/1967;54;15/06/2014;;Ativo;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;0.65;0.87;0.99;0.84
+201385;Cacilda Xavier;Solteiro;Doutorado;F;22/06/1987;34;18/06/2014;;Ativo;#8003;Gerente;Comercial;11627;280;800;12707;Belo Horizonte;MG;0.82;0.99;0.92;0.91
+201386;Evanor Morato Holanda;Casado;Graduação;M;31/03/1967;54;02/07/2014;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;210;200;2748.32;Vitória;ES;0.74;0.95;0.73;0.81
+201387;Gabriel Nascimento;Solteiro;Graduação;M;01/05/1985;36;03/07/2014;;Ativo;#6006;Analista III;Logística;6513.92;280;200;6993.92;Belo Horizonte;MG;0.84;0.91;0.86;0.87
+201388;Albano Henriques Diegues;Casado;Graduação;M;25/02/1989;32;05/07/2014;;Ativo;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;0.93;0.96;0.68;0.86
+201389;Edson Gonçalves;Casado;Pós Graduação;M;21/09/1966;55;06/07/2014;01/04/2020;Demitido Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;280;300;4477.21;Belo Horizonte;MG;;;;
+201390;Jeniffer Bueno;Casado;Pós Graduação;F;17/09/1972;49;07/07/2014;;Ativo;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;0.65;0.93;0.87;0.82
+201391;Geandro Barros Mendes;Viúvo;Graduação Incompleta;M;11/02/1973;48;16/07/2014;;Ativo;#1001;Estagiário;TI;1100;300;0;1400;São Paulo;SP;0.7;0.83;0.73;0.75
+201392;Joseneto Pereira Azevedo;Solteiro;Pós Graduação;M;26/01/1978;43;18/07/2014;;Ativo;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;0.62;0.8;0.87;0.76
+201393;Edilson Marçal De Quadros;Solteiro;Graduação;M;28/08/1985;36;20/07/2014;12/08/2018;Saída por Vontade do Colaborador;#8003;Gerente;Comercial;11627;250;200;12077;Rio de Janeiro;RJ;;;;
+201394;Italmira Macedo Silva;Casado;Graduação;F;04/09/1975;46;28/07/2014;19/03/2018;Demitido Justa Causa;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;;;;
+201395;William Bueno;Solteiro;Pós Graduação;M;04/11/1983;37;07/08/2014;;Ativo;#6005;Analista III;Operacional;7091.84;300;300;7691.84;São Paulo;SP;0.89;0.98;0.86;0.91
+201396;Criste França Carvalhosa;Solteiro;Mestrado;M;29/05/1972;49;08/08/2014;;Ativo;#7005;Supervisor;Operacional;8864.8;300;500;9664.8;São Paulo;SP;0.86;0.9;0.84;0.87
+201397;Jadilane Silva Evangelista;Casado;Graduação;F;06/04/1975;46;09/08/2014;;Ativo;#3005;Assistente;Operacional;2553.06;280;200;3033.06;Belo Horizonte;MG;0.75;0.83;0.73;0.77
+201398;Quelisson Resende Azeredo;Divorciado;Pós Graduação;M;29/03/1975;46;12/08/2014;;Ativo;#4006;Analista I;Logística;3908.35;300;300;4508.35;São Paulo;SP;0.99;0.83;0.74;0.85
+201399;Ekamdeep Santiago Médici;Solteiro;Pós Graduação;M;26/02/1974;47;16/08/2014;09/12/2016;Saída por Vontade do Colaborador;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;;;;
+201400;Djamila Gomes Prudente;Casado;Graduação;F;04/02/1986;35;21/08/2014;18/06/2015;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;210;200;4318.35;Vitória;ES;;;;
+201401;Gisele Vedovati;Solteiro;Graduação;F;01/03/1984;37;27/08/2014;;Ativo;#4002;Analista I;Financeiro;4457.08;280;200;4937.08;Belo Horizonte;MG;0.78;0.91;0.73;0.81
+201402;Adventino Ferraz Pedroso;Casado;Graduação;M;31/12/1963;57;05/09/2014;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.73;0.98;0.95;0.89
+201403;Tuane Silva;Casado;Graduação;F;11/03/1983;38;06/09/2014;20/09/2018;Demitido Sem Justa Causa;#6005;Analista III;Operacional;7091.84;250;200;7541.84;Rio de Janeiro;RJ;;;;
+201404;Jennifer Santos;Solteiro;Graduação;F;20/12/1984;36;11/09/2014;;Ativo;#4005;Analista I;Operacional;4255.1;300;200;4755.1;São Paulo;SP;0.76;0.91;0.67;0.78
+201405;Andreisse Curado Policarpo;Divorciado;Pós Graduação;F;31/07/1987;34;12/09/2014;;Ativo;#6006;Analista III;Logística;6513.92;300;300;7113.92;São Paulo;SP;0.85;0.93;0.72;0.83
+201406;Adirlan Exaltação Carmo;Solteiro;Graduação;M;21/08/1965;56;15/09/2014;;Ativo;#3005;Assistente;Operacional;2553.06;280;200;3033.06;Belo Horizonte;MG;0.81;0.84;0.66;0.77
+201407;Rionaldo França Dias;Divorciado;Graduação;M;10/03/1986;35;16/09/2014;21/06/2019;Demitido Sem Justa Causa;#4002;Analista I;Financeiro;4457.08;280;200;4937.08;Belo Horizonte;MG;;;;
+201408;Juliandre Duarte Abreu;Divorciado;Graduação;M;21/08/1986;35;16/09/2014;25/07/2016;Demitido Sem Justa Causa;#5005;Analista II;Operacional;5673.47;210;200;6083.47;Vitória;ES;;;;
+201409;Dorismar Oliveira Moraes;Solteiro;Graduação Incompleta;M;23/02/1971;50;17/09/2014;;Ativo;#1005;Estagiário;Operacional;1100;250;0;1350;Rio de Janeiro;RJ;0.81;0.81;0.81;0.81
+201410;Anice Bolsonaro Andrada;Solteiro;Graduação;F;15/08/1991;30;18/09/2014;15/01/2020;Saída por Vontade do Colaborador;#3005;Assistente;Operacional;2553.06;280;200;3033.06;Belo Horizonte;MG;;;;
+201411;Arilucia Freitas Fontes;Viúvo;Graduação Incompleta;F;23/07/1975;46;20/09/2014;;Ativo;#1003;Estagiário;Comercial;1100;300;0;1400;São Paulo;SP;0.67;0.87;0.86;0.8
+201412;Vagner Souza;Casado;Graduação;M;16/07/1983;38;21/09/2014;;Ativo;#4003;Analista I;Comercial;4464.76;300;200;4964.76;São Paulo;SP;0.67;0.86;0.76;0.76
+201413;Eliane Santos;Solteiro;Pós Graduação;F;26/03/1987;34;25/09/2014;28/12/2016;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;300;300;5064.76;São Paulo;SP;;;;
+201414;Gercinda Barroso Brandão;Solteiro;Pós Graduação;F;10/04/1968;53;07/10/2014;;Ativo;#4002;Analista I;Financeiro;4457.08;210;300;4967.08;Vitória;ES;0.66;0.91;0.7;0.76
+201415;Ionaldo Trindade Andrada;Casado;Graduação;M;24/07/1961;60;09/10/2014;25/01/2015;Demitido Justa Causa;#4005;Analista I;Operacional;4255.1;300;200;4755.1;São Paulo;SP;;;;
+201416;Erosina Viana Veiga;Casado;Graduação Incompleta;F;15/05/1963;58;27/10/2014;;Ativo;#1001;Estagiário;TI;1100;300;0;1400;São Paulo;SP;0.61;0.85;1;0.82
+201417;William Puerta;Casado;Mestrado;M;01/02/1981;40;05/11/2014;;Ativo;#7004;Supervisor;Recursos Humanos;8119.2;250;500;8869.2;Rio de Janeiro;RJ;0.7;1;0.77;0.82
+201418;Evanio Clementino;Solteiro;Pós Graduação;M;04/03/1965;56;15/11/2014;;Ativo;#4001;Analista I;TI;3979.77;250;300;4529.77;Rio de Janeiro;RJ;0.89;0.88;0.84;0.87
+201419;Risoneide Porto Pimenta;União Estável;Graduação Incompleta;F;02/08/1983;38;10/12/2014;;Ativo;#1004;Estagiário;Recursos Humanos;1100;210;0;1310;Vitória;ES;0.62;0.98;0.73;0.78
+201420;Amne Faro Galvão;Casado;Pós Graduação;F;16/07/1970;51;22/12/2014;02/07/2019;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;300;300;4508.35;São Paulo;SP;;;;
+201421;Rosane Souza;Casado;Pós Graduação;F;04/08/1966;55;27/12/2014;;Ativo;#5002;Analista II;Financeiro;5942.78;280;300;6522.78;Belo Horizonte;MG;0.85;0.97;0.74;0.85
+201422;Hidequel Carmo Ferrão;Solteiro;Graduação;M;28/08/1987;34;13/01/2015;25/11/2017;Demitido Sem Justa Causa;#3003;Assistente;Comercial;2678.86;210;200;3088.86;Vitória;ES;;;;
+201423;Anarolino Freire Bernades;Solteiro;Graduação;M;29/01/1990;31;20/01/2015;;Ativo;#4003;Analista I;Comercial;4464.76;280;200;4944.76;Belo Horizonte;MG;0.63;0.87;0.8;0.77
+201424;Isabella Shimiguelski;Casado;Graduação;F;04/06/1961;60;21/01/2015;;Ativo;#4003;Analista I;Comercial;4464.76;210;200;4874.76;Vitória;ES;0.95;0.96;0.98;0.96
+201425;Eliomarcio Rios Ramalho;Casado;Pós Graduação;M;18/10/1987;33;22/01/2015;;Ativo;#3002;Assistente;Financeiro;2674.25;250;300;3224.25;Rio de Janeiro;RJ;0.93;0.9;0.7;0.84
+201426;Eliesley Falqueto Mello;Solteiro;Graduação;M;21/10/1965;55;24/01/2015;;Ativo;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;0.64;0.97;0.73;0.78
+201427;Sueli Pires;Solteiro;Mestrado;F;14/05/1996;25;27/01/2015;06/03/2019;Demitido Justa Causa;#7003;Supervisor;Comercial;9301.6;210;500;10011.6;Vitória;ES;;;;
+201428;Josemiro Sousa Queirós;Divorciado;Graduação;M;10/10/1984;36;05/02/2015;;Ativo;#5004;Analista II;Recursos Humanos;5196.28;250;200;5646.28;Rio de Janeiro;RJ;0.71;0.93;0.71;0.78
+201429;Alreniza Borges Santarrosa;União Estável;Graduação;F;13/01/1985;36;09/02/2015;05/11/2015;Demitido Sem Justa Causa;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;;;;
+201430;Heloysa Prela;Casado;Pós Graduação;F;26/11/1962;58;11/02/2015;20/02/2018;Demitido Justa Causa;#5001;Analista II;TI;5306.36;300;300;5906.36;São Paulo;SP;;;;
+201431;Henrique Reis;Casado;Graduação;M;13/10/1987;33;14/02/2015;;Ativo;#4005;Analista I;Operacional;4255.1;300;200;4755.1;São Paulo;SP;0.71;0.98;0.8;0.83
+201432;Maiara Lima;Casado;Mestrado;F;04/08/1992;29;01/03/2015;20/05/2016;Demitido Justa Causa;#7006;Supervisor;Logística;8142.4;280;500;8922.4;Belo Horizonte;MG;;;;
+201433;Liserio Matos Sá;Solteiro;Graduação Incompleta;M;20/07/1968;53;13/03/2015;;Ativo;#1002;Estagiário;Financeiro;1100;210;0;1310;Vitória;ES;0.7;0.89;0.83;0.81
+201434;Caina Carvalhosa Locatelli;Solteiro;Graduação;M;19/02/1975;46;15/03/2015;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;280;200;4377.21;Belo Horizonte;MG;1;0.84;0.73;0.86
+201435;Joenil Muniz Sanches;Casado;Pós Graduação;M;10/09/1967;54;17/03/2015;15/07/2015;Saída por Vontade do Colaborador;#3003;Assistente;Comercial;2678.86;280;300;3258.86;Belo Horizonte;MG;;;;
+201436;Dircineia Azevedo Machado;Solteiro;Graduação;F;12/08/1967;54;19/03/2015;;Ativo;#4001;Analista I;TI;3979.77;300;200;4479.77;São Paulo;SP;0.95;1;0.74;0.9
+201437;Deri Muniz Figueira;Viúvo;Graduação Incompleta;M;17/01/1973;48;26/03/2015;21/12/2018;Demitido Sem Justa Causa;#1003;Estagiário;Comercial;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201438;Claisson Pimentel Sanches;Solteiro;Graduação;M;27/08/1994;27;30/03/2015;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;300;200;2838.32;São Paulo;SP;0.96;0.97;0.91;0.95
+201439;Claudia Bueno;Casado;Pós Graduação;F;26/02/1960;61;05/04/2015;;Ativo;#5006;Analista II;Logística;5211.13;210;300;5721.13;Vitória;ES;0.68;0.84;0.9;0.81
+201440;Monica Espindola;Casado;Pós Graduação;F;25/05/1973;48;06/04/2015;;Ativo;#6001;Analista III;TI;6632.96;300;300;7232.96;São Paulo;SP;1;0.89;0.83;0.91
+201441;Enelise Figueira Anes;Casado;Pós Graduação;F;06/06/1977;44;13/04/2015;;Ativo;#4006;Analista I;Logística;3908.35;280;300;4488.35;Belo Horizonte;MG;0.9;0.9;0.96;0.92
+201442;Gleico Botelho Nóbrega;Solteiro;Mestrado;M;28/08/1968;53;19/04/2015;;Ativo;#8004;Gerente;Recursos Humanos;10149;210;500;10859;Vitória;ES;0.93;0.81;0.72;0.82
+201443;Aniria Uchoa Uribe;Casado;Pós Graduação;F;29/10/1963;57;24/04/2015;;Ativo;#3002;Assistente;Financeiro;2674.25;250;300;3224.25;Rio de Janeiro;RJ;0.83;0.89;0.73;0.82
+201444;Ivens Ramires Pinheiro;Solteiro;Graduação;M;02/06/1987;34;01/05/2015;;Ativo;#3002;Assistente;Financeiro;2674.25;300;200;3174.25;São Paulo;SP;0.84;0.84;0.71;0.8
+201445;Glayston Paes Adorno;Casado;Pós Graduação;M;15/06/1973;48;06/05/2015;27/02/2017;Saída por Vontade do Colaborador;#4006;Analista I;Logística;3908.35;210;300;4418.35;Vitória;ES;;;;
+201446;Aminadabe Brandão Brasil;União Estável;Pós Graduação;M;06/04/1986;35;06/05/2015;;Ativo;#6003;Analista III;Comercial;7441.28;300;300;8041.28;São Paulo;SP;0.6;0.96;0.68;0.75
+201447;Nildair Seixas Falqueto;Solteiro;Graduação;F;14/08/1994;27;07/05/2015;02/08/2018;Demitido Justa Causa;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;;
+201448;Pedro Pelegrinetti;Solteiro;Mestrado;M;09/01/1992;29;11/05/2015;;Ativo;#8005;Gerente;Operacional;11081;210;500;11791;Vitória;ES;0.8;0.97;0.69;0.82
+201449;Eguiberto Azevedo Carvalho;Divorciado;Graduação;M;10/02/1992;29;22/05/2015;15/08/2017;Demitido Justa Causa;#6004;Analista III;Recursos Humanos;6495.36;250;200;6945.36;Rio de Janeiro;RJ;;;;
+201450;Joas Martins Saramago;Divorciado;Graduação Incompleta;M;28/02/1984;37;23/05/2015;;Ativo;#1006;Estagiário;Logística;1100;300;0;1400;São Paulo;SP;0.72;0.97;0.67;0.79
+201451;Amsterdan Camargo Fonseca;Solteiro;Mestrado;M;11/02/1968;53;01/06/2015;;Ativo;#8001;Gerente;TI;10364;300;500;11164;São Paulo;SP;0.84;0.87;0.83;0.85
+201452;Devalmir Uribe Evangelista;Solteiro;Graduação Incompleta;M;11/11/1969;51;05/06/2015;;Ativo;#1004;Estagiário;Recursos Humanos;1100;300;0;1400;São Paulo;SP;0.88;0.91;0.86;0.88
+201453;Rubenilton Magalhães Figueiroa;Casado;Pós Graduação;M;23/08/1966;55;10/06/2015;;Ativo;#5004;Analista II;Recursos Humanos;5196.28;210;300;5706.28;Vitória;ES;0.99;0.81;0.68;0.83
+201454;Darcilio Prudente Papanicolau;Solteiro;Graduação;M;24/03/1991;30;18/06/2015;;Ativo;#3005;Assistente;Operacional;2553.06;250;200;3003.06;Rio de Janeiro;RJ;0.61;0.95;0.87;0.81
+201455;Luessa Albuquerque Gonçales;Solteiro;Graduação;F;16/08/1984;37;23/06/2015;;Ativo;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;0.63;0.9;0.73;0.75
+201456;Aline Costa;Casado;Mestrado;F;04/12/1979;41;09/07/2015;09/07/2019;Demitido Justa Causa;#7002;Supervisor;Financeiro;9285.6;250;500;10035.6;Rio de Janeiro;RJ;;;;
+201457;Edevino Aramis De Lara Albach;Solteiro;Graduação;M;06/09/1983;38;10/07/2015;;Ativo;#4006;Analista I;Logística;3908.35;300;200;4408.35;São Paulo;SP;0.65;0.85;0.88;0.79
+201458;Etro Ramos Figueiredo;Divorciado;Graduação Incompleta;M;08/12/1993;27;10/07/2015;;Ativo;#1004;Estagiário;Recursos Humanos;1100;280;0;1380;Belo Horizonte;MG;0.87;0.95;0.89;0.9
+201459;Laerce Caminha Sampaulo;Casado;Graduação;M;07/03/1973;48;14/07/2015;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;0.77;0.86;0.77;0.8
+201460;Acisio Henriques Botelho;Solteiro;Graduação;M;24/08/1972;49;20/07/2015;;Ativo;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;0.67;0.8;0.84;0.77
+201461;Luis Trindade Braga;Solteiro;Pós Graduação;M;03/02/1973;48;20/07/2015;15/01/2020;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;250;300;4458.35;Rio de Janeiro;RJ;;;;
+201462;Sonino Moreira Leme;Solteiro;Graduação;M;04/05/1977;44;23/07/2015;11/01/2016;Saída por Vontade do Colaborador;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;;;;
+201463;Nadia Oliveira;Solteiro;Pós Graduação;F;02/07/1990;31;28/07/2015;;Ativo;#5006;Analista II;Logística;5211.13;250;300;5761.13;Rio de Janeiro;RJ;0.9;0.87;0.96;0.91
+201464;Aline Correia;Solteiro;Graduação;F;26/05/1988;33;29/07/2015;16/08/2017;Demitido Justa Causa;#5001;Analista II;TI;5306.36;210;200;5716.36;Vitória;ES;;;;
+201465;Adren Naves Nascimento;Divorciado;Mestrado;M;06/03/1992;29;08/08/2015;17/07/2017;Saída por Vontade do Colaborador;#7001;Supervisor;TI;8291.2;280;500;9071.2;Belo Horizonte;MG;;;;
+201466;Albede Duarte Quaresma;Solteiro;Graduação;M;08/08/1984;37;11/08/2015;07/01/2016;Demitido Justa Causa;#3001;Assistente;TI;2387.86;250;200;2837.86;Rio de Janeiro;RJ;;;;
+201467;Altaides Carvalhosa Anchieta;Casado;Graduação;M;08/12/1987;33;14/08/2015;;Ativo;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;0.76;0.96;0.86;0.86
+201468;Dhafine Baroni;Casado;Pós Graduação;F;10/01/1990;31;18/08/2015;30/10/2017;Demitido Sem Justa Causa;#6002;Analista III;Financeiro;7428.48;300;300;8028.48;São Paulo;SP;;;;
+201469;Brigiti Ramos Aragão;Solteiro;Graduação;F;02/04/1997;24;22/08/2015;31/05/2017;Demitido Justa Causa;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;;
+201470;Leandro Moreira Vilhena;Casado;Graduação;M;02/08/1960;61;25/08/2015;;Ativo;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;0.73;0.83;0.68;0.75
+201471;Deusarino Ascensão Sampedro;Solteiro;Graduação;M;31/12/1978;42;11/09/2015;;Ativo;#3002;Assistente;Financeiro;2674.25;300;200;3174.25;São Paulo;SP;0.92;0.81;0.86;0.86
+201472;Agenilton Rodrigues Camões;Divorciado;Graduação Incompleta;M;04/09/1984;37;15/09/2015;;Ativo;#1005;Estagiário;Operacional;1100;250;0;1350;Rio de Janeiro;RJ;0.99;0.88;0.91;0.93
+201473;Franciele Sauer;Casado;Pós Graduação;F;26/02/1966;55;19/09/2015;12/08/2019;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;210;300;4967.08;Vitória;ES;;;;
+201474;Thais Reis;Casado;Graduação;F;17/12/1984;36;19/09/2015;04/08/2016;Demitido Sem Justa Causa;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;;;;
+201475;Jusivaldo Cerejeira Lange;Solteiro;Graduação;M;26/07/1982;39;22/09/2015;09/03/2017;Demitido Justa Causa;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;;;;
+201476;Clessio Albuquerque Sá;Solteiro;Graduação;M;21/01/1972;49;04/10/2015;31/03/2019;Saída por Vontade do Colaborador;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;;;;
+201477;Adenar Porto Borsoi;Solteiro;Graduação;M;08/03/1986;35;11/10/2015;;Ativo;#3006;Assistente;Logística;2345.01;210;200;2755.01;Vitória;ES;0.91;0.88;0.92;0.9
+201478;Alfeo Fagundes Médici;União Estável;Graduação Incompleta;M;18/11/1995;25;13/10/2015;20/04/2018;Demitido Sem Justa Causa;#1003;Estagiário;Comercial;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201479;Anadilson Outeiro Figueiredo;Casado;Pós Graduação;M;25/02/1981;40;28/10/2015;15/03/2020;Demitido Justa Causa;#4001;Analista I;TI;3979.77;250;300;4529.77;Rio de Janeiro;RJ;;;;
+201480;Leandro Vaz;Casado;Pós Graduação;M;01/12/1960;60;15/11/2015;07/03/2019;Demitido Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;300;300;4497.21;São Paulo;SP;;;;
+201481;Euzamar Cunha Pinheiro;Casado;Graduação Incompleta;F;26/01/1961;60;19/11/2015;;Ativo;#1005;Estagiário;Operacional;1100;300;0;1400;São Paulo;SP;0.74;0.8;0.93;0.82
+201482;Ataires Ramos Penteado;Casado;Graduação;F;07/04/1976;45;03/12/2015;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;300;200;2838.32;São Paulo;SP;0.82;0.98;0.83;0.88
+201483;Amanda Almeida;Casado;Graduação;F;27/03/1968;53;04/12/2015;30/10/2019;Saída por Vontade do Colaborador;#6006;Analista III;Logística;6513.92;280;200;6993.92;Belo Horizonte;MG;;;;
+201484;Patricia Borges;Casado;Pós Graduação;M;29/09/1988;33;06/12/2015;18/02/2020;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;280;300;4488.35;Belo Horizonte;MG;;;;
+201485;Claudinei Silva;Solteiro;Pós Graduação;M;12/03/1972;49;09/12/2015;;Ativo;#7001;Supervisor;TI;8291.2;210;300;8801.2;Vitória;ES;0.67;0.94;0.72;0.78
+201486;Kayden Malafaia Homem;Solteiro;Pós Graduação;M;27/09/1988;33;09/12/2015;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;300;300;4497.21;São Paulo;SP;0.92;0.99;0.66;0.86
+201487;Cleidinilson Figueiroa Bicalho;Solteiro;Pós Graduação;M;12/11/1984;36;13/12/2015;07/01/2017;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;280;300;5037.08;Belo Horizonte;MG;;;;
+201488;Iolando Xavier Pascoal;Casado;Pós Graduação;M;04/10/1984;37;25/12/2015;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;280;300;4477.21;Belo Horizonte;MG;0.88;0.8;0.76;0.81
+201489;Franquismar Farias Ribeiro;Solteiro;Graduação;M;30/03/1990;31;02/01/2016;;Ativo;#4001;Analista I;TI;3979.77;300;200;4479.77;São Paulo;SP;0.72;0.92;0.89;0.84
+201490;Rafael Merino;Casado;Graduação;M;02/07/1997;24;03/01/2016;;Ativo;#4002;Analista I;Financeiro;4457.08;250;200;4907.08;Rio de Janeiro;RJ;0.84;0.88;0.82;0.85
+201491;Abidon Mariz Pedroso;Solteiro;Graduação;M;11/09/1987;34;14/01/2016;20/04/2017;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;280;200;4388.35;Belo Horizonte;MG;;;;
+201492;Zyan Hernandes Moreira;Solteiro;Pós Graduação;M;24/03/1980;41;16/01/2016;08/05/2017;Demitido Justa Causa;#4005;Analista I;Operacional;4255.1;210;300;4765.1;Vitória;ES;;;;
+201493;Aderiana Santana França;Casado;Graduação;F;12/08/1987;34;19/01/2016;19/02/2019;Demitido Justa Causa;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;;;;
+201494;Neife Hora Uchoa;Casado;Graduação;M;06/12/1997;23;23/01/2016;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;280;200;2818.32;Belo Horizonte;MG;0.88;0.81;0.71;0.8
+201495;Deusamara Alvim Anjos;Solteiro;Graduação;F;17/02/1992;29;25/01/2016;;Ativo;#3003;Assistente;Comercial;2678.86;210;200;3088.86;Vitória;ES;0.93;0.84;0.75;0.84
+201496;Peter Moreira Brandão;Solteiro;Graduação;M;24/10/1994;26;28/01/2016;10/04/2019;Saída por Vontade do Colaborador;#4006;Analista I;Logística;3908.35;250;200;4358.35;Rio de Janeiro;RJ;;;;
+201497;Acassiano Homem Fagundes;Divorciado;Graduação Incompleta;M;13/04/1986;35;31/01/2016;30/10/2018;Demitido Justa Causa;#1006;Estagiário;Logística;1100;210;0;1310;Vitória;ES;;;;
+201498;Angeluzia Cordeiro Encarnação;Divorciado;Graduação;F;06/02/1995;26;06/02/2016;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;0.67;0.86;0.87;0.8
+201499;Clausinei Dambros Soeiro;Solteiro;Pós Graduação;M;17/11/1992;28;11/02/2016;06/02/2017;Demitido Sem Justa Causa;#5001;Analista II;TI;5306.36;300;300;5906.36;São Paulo;SP;;;;
+201500;Hericson Muniz Alencar;Viúvo;Graduação;M;13/11/1974;46;12/02/2016;;Ativo;#5003;Analista II;Comercial;5953.02;280;200;6433.02;Belo Horizonte;MG;0.82;0.97;0.78;0.86
+201501;Tatiana Dos Santos Camargo;Solteiro;Pós Graduação;F;03/08/1981;40;20/02/2016;24/01/2017;Saída por Vontade do Colaborador;#6003;Analista III;Comercial;7441.28;300;300;8041.28;São Paulo;SP;;;;
+201502;Edegar Cunha Vieira;Divorciado;Graduação Incompleta;M;19/04/1994;27;28/02/2016;04/05/2017;Demitido Sem Justa Causa;#1002;Estagiário;Financeiro;1100;280;0;1380;Belo Horizonte;MG;;;;
+201503;Iraceli Constante Dambros;Viúvo;Graduação Incompleta;F;09/12/1974;46;08/03/2016;;Ativo;#1006;Estagiário;Logística;1100;250;0;1350;Rio de Janeiro;RJ;0.83;0.88;0.86;0.86
+201504;Leonoura Trindade Azevedo;Casado;Graduação;F;06/01/1977;44;11/03/2016;28/04/2019;Demitido Sem Justa Causa;#4003;Analista I;Comercial;4464.76;280;200;4944.76;Belo Horizonte;MG;;;;
+201505;Edeize Pizzonia;Solteiro;Mestrado;F;28/06/1986;35;15/03/2016;15/02/2017;Demitido Justa Causa;#8003;Gerente;Comercial;11627;300;500;12427;São Paulo;SP;;;;
+201506;Katiel Sacramento Adães;Solteiro;Graduação;M;03/07/1970;51;22/03/2016;;Ativo;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;0.83;0.81;0.89;0.84
+201507;Tissiano Pereira Amaral;Casado;Mestrado;M;17/06/1963;58;25/03/2016;;Ativo;#7004;Supervisor;Recursos Humanos;8119.2;210;500;8829.2;Vitória;ES;0.94;0.87;0.91;0.91
+201508;Alecsandro Silva;Casado;Pós Graduação;M;06/07/1984;37;28/03/2016;10/12/2018;Demitido Sem Justa Causa;#6004;Analista III;Recursos Humanos;6495.36;300;300;7095.36;São Paulo;SP;;;;
+201509;Inacio Amigo Encarnação;Solteiro;Graduação;M;27/09/1980;41;02/04/2016;26/05/2019;Demitido Justa Causa;#3003;Assistente;Comercial;2678.86;280;200;3158.86;Belo Horizonte;MG;;;;
+201510;Tenilson Namorado Falópio;Casado;Graduação;M;26/08/1967;54;07/04/2016;29/04/2019;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;280;200;4944.76;Belo Horizonte;MG;;;;
+201511;Karollayne Serrano Alvarenga;Solteiro;Graduação;F;12/08/1997;24;09/04/2016;11/05/2019;Demitido Sem Justa Causa;#4005;Analista I;Operacional;4255.1;210;200;4665.1;Vitória;ES;;;;
+201512;Hamurabi Sanches Oliva;Solteiro;Graduação;M;27/10/1987;33;11/04/2016;03/06/2017;Demitido Justa Causa;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;;;;
+201513;Assilon Oliveira Santos;Divorciado;Mestrado;M;05/08/1978;43;11/04/2016;19/10/2016;Demitido Sem Justa Causa;#7006;Supervisor;Logística;8142.4;250;500;8892.4;Rio de Janeiro;RJ;;;;
+201514;Pedro Luiz Ferreira;Casado;Pós Graduação;M;15/07/1997;24;19/04/2016;05/07/2019;Demitido Sem Justa Causa;#6003;Analista III;Comercial;7441.28;210;300;7951.28;Vitória;ES;;;;
+201515;Aderaudo Curado Mariz;Casado;Pós Graduação;M;13/01/1977;44;22/04/2016;;Ativo;#4001;Analista I;TI;3979.77;250;300;4529.77;Rio de Janeiro;RJ;0.73;0.99;0.9;0.87
+201516;Calmiranda Sampaulo Viana;Casado;Pós Graduação;F;18/12/1976;44;01/05/2016;09/12/2017;Saída por Vontade do Colaborador;#4003;Analista I;Comercial;4464.76;250;300;5014.76;Rio de Janeiro;RJ;;;;
+201517;Crisneide Reis Braga;Casado;Graduação;F;17/06/1996;25;04/05/2016;05/12/2017;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;280;200;4937.08;Belo Horizonte;MG;;;;
+201518;Diorgines Dorneles Veiga;Divorciado;Mestrado;M;30/10/1989;31;08/05/2016;;Ativo;#8003;Gerente;Comercial;11627;210;500;12337;Vitória;ES;0.61;1;0.96;0.86
+201519;Hyun Peixoto Carneiro;Divorciado;Pós Graduação;M;06/12/1988;32;22/05/2016;15/07/2019;Saída por Vontade do Colaborador;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;;;;
+201520;Alvoir Pacheco Gouveia;Viúvo;Graduação Incompleta;M;25/08/1973;48;23/05/2016;22/09/2016;Demitido Justa Causa;#1005;Estagiário;Operacional;1100;210;0;1310;Vitória;ES;;;;
+201521;Liliane Ramalhete Vieira;Viúvo;Graduação Incompleta;F;06/11/1973;47;30/05/2016;05/12/2018;Demitido Justa Causa;#1002;Estagiário;Financeiro;1100;210;0;1310;Vitória;ES;;;;
+201522;Gabriela Borges Saggioratto;Casado;Graduação;F;22/01/1982;39;08/06/2016;26/05/2017;Demitido Sem Justa Causa;#6006;Analista III;Logística;6513.92;300;200;7013.92;São Paulo;SP;;;;
+201523;Audenisio Cardoso Sampedro;Solteiro;Graduação;M;15/11/1989;31;16/06/2016;;Ativo;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;0.87;0.94;0.93;0.91
+201524;Amazonita Ustra Ferrolho;Solteiro;Graduação;F;30/11/1961;59;21/06/2016;;Ativo;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;0.89;0.86;0.96;0.9
+201525;Marilia Ferreira;Casado;Graduação;F;15/05/1977;44;03/07/2016;;Ativo;#4005;Analista I;Operacional;4255.1;300;200;4755.1;São Paulo;SP;0.75;0.94;0.78;0.82
+201526;Ducival Marques Amaral;Casado;Graduação;M;08/05/1988;33;06/07/2016;24/11/2018;Demitido Sem Justa Causa;#3003;Assistente;Comercial;2678.86;250;200;3128.86;Rio de Janeiro;RJ;;;;
+201527;Adonilio Queiroz;Casado;Pós Graduação;M;21/09/1987;34;07/07/2016;;Ativo;#5006;Analista II;Logística;5211.13;210;300;5721.13;Vitória;ES;0.81;0.95;0.71;0.82
+201528;Cristiano Brito;Casado;Pós Graduação;M;12/05/1962;59;11/07/2016;29/10/2017;Demitido Sem Justa Causa;#8003;Gerente;Comercial;11627;250;300;12177;Rio de Janeiro;RJ;;;;
+201529;Dierre Negreiros Amorim;Viúvo;Graduação Incompleta;M;17/07/1975;46;12/07/2016;14/01/2019;Saída por Vontade do Colaborador;#1004;Estagiário;Recursos Humanos;1100;280;0;1380;Belo Horizonte;MG;;;;
+201530;Enismar Teles Paixão;Casado;Graduação;M;06/10/1970;50;15/07/2016;;Ativo;#4005;Analista I;Operacional;4255.1;280;200;4735.1;Belo Horizonte;MG;0.87;0.97;0.81;0.88
+201531;Cleusineia Adorno Serrano;Casado;Pós Graduação;F;11/01/1985;36;25/07/2016;25/10/2019;Demitido Justa Causa;#4005;Analista I;Operacional;4255.1;250;300;4805.1;Rio de Janeiro;RJ;;;;
+201532;Areu Moraes Mairinque;Solteiro;Graduação;M;29/03/1977;44;28/07/2016;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.73;0.9;0.91;0.85
+201533;Wegton Cruz Gato;Casado;Graduação;M;11/05/1995;26;06/08/2016;;Ativo;#3005;Assistente;Operacional;2553.06;250;200;3003.06;Rio de Janeiro;RJ;0.79;0.98;0.71;0.83
+201534;Laerde Furtado Martins;Divorciado;Graduação;M;17/06/1980;41;16/08/2016;30/09/2019;Demitido Justa Causa;#5002;Analista II;Financeiro;5942.78;300;200;6442.78;São Paulo;SP;;;;
+201535;Théo Figueiredo Sampaulo;Divorciado;Pós Graduação;M;05/08/1992;29;18/08/2016;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;210;300;2848.32;Vitória;ES;0.72;0.9;0.82;0.81
+201536;Deusilandia Pessoa Chaves;Divorciado;Graduação Incompleta;F;30/07/1984;37;18/08/2016;16/12/2019;Demitido Justa Causa;#1002;Estagiário;Financeiro;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201537;Eudirene Porto Papanicolau;Casado;Pós Graduação;F;31/05/1969;52;26/08/2016;;Ativo;#4003;Analista I;Comercial;4464.76;280;300;5044.76;Belo Horizonte;MG;0.93;0.85;0.92;0.9
+201538;Cleidmilson Sacramento Nunes;União Estável;Graduação Incompleta;M;09/08/1995;26;28/08/2016;17/01/2020;Demitido Sem Justa Causa;#1003;Estagiário;Comercial;1100;280;0;1380;Belo Horizonte;MG;;;;
+201539;Azanias Bolsonaro Nunes;Solteiro;Graduação;M;01/09/1982;39;30/08/2016;17/10/2019;Saída por Vontade do Colaborador;#3004;Assistente;Recursos Humanos;2338.32;280;200;2818.32;Belo Horizonte;MG;;;;
+201540;Daiane Martins;Solteiro;Graduação;F;08/10/1966;54;02/09/2016;19/12/2017;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;210;200;4318.35;Vitória;ES;;;;
+201541;Djard Pasquim Eça;Solteiro;Graduação;M;01/08/1988;33;07/09/2016;;Ativo;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;0.95;0.95;0.71;0.87
+201542;Auziro Rodrigues Borsoi;Solteiro;Graduação;M;20/02/1960;61;09/09/2016;;Ativo;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;0.76;0.8;0.93;0.83
+201543;Marcos Massacani;Casado;Pós Graduação;M;07/01/1998;23;11/09/2016;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;210;300;4407.21;Vitória;ES;0.8;0.91;0.99;0.9
+201544;Nonato Lins Bernades;União Estável;Pós Graduação;M;12/09/1986;35;17/09/2016;;Ativo;#5001;Analista II;TI;5306.36;300;300;5906.36;São Paulo;SP;0.74;0.85;0.96;0.85
+201545;Bruno Serafim Rodrigues;Solteiro;Pós Graduação;M;06/08/1998;23;21/09/2016;;Ativo;#7005;Supervisor;Operacional;8864.8;210;300;9374.8;Vitória;ES;0.66;0.8;0.94;0.8
+201546;Claudiosmar Pascal Saraiva;Casado;Graduação;M;21/06/1987;34;25/09/2016;22/04/2017;Demitido Sem Justa Causa;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;;;;
+201547;Edivar Ustra Figueiroa;Casado;Pós Graduação;M;05/09/1961;60;25/09/2016;11/02/2018;Demitido Sem Justa Causa;#5003;Analista II;Comercial;5953.02;250;300;6503.02;Rio de Janeiro;RJ;;;;
+201548;Juliano Santos;Solteiro;Pós Graduação;M;01/09/1989;32;02/10/2016;;Ativo;#8005;Gerente;Operacional;11081;250;300;11631;Rio de Janeiro;RJ;0.89;1;0.98;0.96
+201549;Fumiaki Seixas Borba;Solteiro;Graduação;M;08/10/1989;31;03/10/2016;;Ativo;#3001;Assistente;TI;2387.86;280;200;2867.86;Belo Horizonte;MG;0.69;0.9;0.69;0.76
+201550;Aldorico Nascimento Adães;Solteiro;Graduação;M;16/04/1986;35;06/10/2016;11/07/2018;Demitido Justa Causa;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;;;;
+201551;Alecia Anchieta Bueno;Solteiro;Graduação;F;28/09/1961;60;07/10/2016;06/03/2020;Saída por Vontade do Colaborador;#3004;Assistente;Recursos Humanos;2338.32;210;200;2748.32;Vitória;ES;;;;
+201552;Jocieudo Pedrosa Carmo;Casado;Graduação;M;16/03/1976;45;08/10/2016;15/12/2019;Demitido Sem Justa Causa;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;;;;
+201553;Chalene Namorado Magalhães;Casado;Pós Graduação;F;30/06/1960;61;10/10/2016;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;280;300;4477.21;Belo Horizonte;MG;1;0.94;0.83;0.92
+201554;Andressa Santos;Casado;Pós Graduação;F;18/03/1997;24;11/10/2016;03/04/2017;Demitido Sem Justa Causa;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;;;;
+201555;Elaine Galvao;Casado;Pós Graduação;F;10/11/1978;42;30/10/2016;;Ativo;#6002;Analista III;Financeiro;7428.48;280;300;8008.48;Belo Horizonte;MG;0.9;0.88;0.86;0.88
+201556;Agostinha Malta Gonçalves;Solteiro;Graduação;F;16/04/1981;40;01/11/2016;;Ativo;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;0.65;0.93;0.82;0.8
+201557;Alexsander De Oliveira;Solteiro;Graduação;M;14/07/1995;26;01/11/2016;08/03/2019;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;250;200;4358.35;Rio de Janeiro;RJ;;;;
+201558;Raulin Valadares Ramos;Solteiro;Graduação;M;07/12/1982;38;06/11/2016;;Ativo;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;0.63;0.98;0.96;0.86
+201559;Evanclei Exaltação Pacheco;Solteiro;Graduação;M;27/06/1992;29;15/11/2016;17/03/2018;Demitido Justa Causa;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;;;;
+201560;Francemir Soares Mesquita;Casado;Graduação;M;05/01/1987;34;23/11/2016;07/02/2020;Demitido Justa Causa;#3005;Assistente;Operacional;2553.06;250;200;3003.06;Rio de Janeiro;RJ;;;;
+201561;Vera Braz;Solteiro;Mestrado;F;24/06/1961;60;24/11/2016;23/08/2018;Demitido Justa Causa;#7002;Supervisor;Financeiro;9285.6;250;500;10035.6;Rio de Janeiro;RJ;;;;
+201562;Amercio Alcântara Sá;Solteiro;Graduação;M;02/11/1998;22;30/11/2016;;Ativo;#3002;Assistente;Financeiro;2674.25;300;200;3174.25;São Paulo;SP;0.87;0.99;0.95;0.94
+201563;Gracio Xavier Hungria;Casado;Graduação;M;24/02/1990;31;02/12/2016;02/05/2019;Demitido Sem Justa Causa;#3002;Assistente;Financeiro;2674.25;300;200;3174.25;São Paulo;SP;;;;
+201564;Paula Beje;Solteiro;Pós Graduação;F;08/12/1982;38;12/12/2016;;Ativo;#4006;Analista I;Logística;3908.35;250;300;4458.35;Rio de Janeiro;RJ;0.6;0.86;0.72;0.73
+201565;Neiva Sacramento Chaves;Casado;Graduação;F;09/03/1987;34;14/12/2016;07/01/2019;Demitido Justa Causa;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;;;;
+201566;Dawan Alves Amor;Casado;Graduação;M;19/11/1993;27;24/12/2016;;Ativo;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;0.73;0.83;0.85;0.8
+201567;Lidea Queirós Roma;Divorciado;Graduação Incompleta;F;25/01/1992;29;24/12/2016;;Ativo;#1002;Estagiário;Financeiro;1100;250;0;1350;Rio de Janeiro;RJ;0.99;0.96;0.94;0.96
+201568;Aline Marquez;Solteiro;Pós Graduação;F;23/01/1978;43;25/12/2016;06/10/2019;Demitido Justa Causa;#5003;Analista II;Comercial;5953.02;250;300;6503.02;Rio de Janeiro;RJ;;;;
+201569;Dulcemeire Altamirano Amorim;Solteiro;Graduação;F;31/01/1992;29;26/12/2016;17/12/2019;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;280;200;4944.76;Belo Horizonte;MG;;;;
+201570;João Vitor Expedito Ajala;Solteiro;Graduação;M;29/09/1983;38;31/12/2016;26/11/2019;Demitido Sem Justa Causa;#6005;Analista III;Operacional;7091.84;250;200;7541.84;Rio de Janeiro;RJ;;;;
+201571;Claisse Assis Macedo;Solteiro;Graduação;F;03/12/1993;27;05/01/2017;28/12/2019;Demitido Sem Justa Causa;#4001;Analista I;TI;3979.77;300;200;4479.77;São Paulo;SP;;;;
+201572;Cicero Krubniki De Oliveira;Solteiro;Mestrado;M;05/09/1987;34;11/01/2017;;Ativo;#7001;Supervisor;TI;8291.2;300;500;9091.2;São Paulo;SP;0.95;0.89;0.92;0.92
+201573;Wirle Brasil Exaltação;Viúvo;Pós Graduação;M;21/02/1975;46;11/01/2017;20/08/2018;Demitido Justa Causa;#7006;Supervisor;Logística;8142.4;300;300;8742.4;São Paulo;SP;;;;
+201574;Jerusa Evangelista;Solteiro;Pós Graduação;F;02/10/1996;25;12/01/2017;;Ativo;#6004;Analista III;Recursos Humanos;6495.36;300;300;7095.36;São Paulo;SP;0.95;0.91;0.96;0.94
+201575;Gleivani Coimbra Faleiros;Divorciado;Graduação Incompleta;F;16/07/1977;44;14/01/2017;15/03/2018;Demitido Justa Causa;#1005;Estagiário;Operacional;1100;300;0;1400;São Paulo;SP;;;;
+201576;Nobre Ferreira Cardoso;Solteiro;Graduação;M;24/07/1998;23;24/01/2017;23/09/2017;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;250;200;4907.08;Rio de Janeiro;RJ;;;;
+201577;Itan Antunes Muniz;União Estável;Mestrado;M;13/02/1996;25;29/01/2017;;Ativo;#7006;Supervisor;Logística;8142.4;280;500;8922.4;Belo Horizonte;MG;0.75;0.97;0.65;0.79
+201578;Marla Rodrigues;Solteiro;Doutorado;F;17/09/1976;45;12/02/2017;03/04/2018;Demitido Sem Justa Causa;#8004;Gerente;Recursos Humanos;10149;250;800;11199;Rio de Janeiro;RJ;;;;
+201579;Carmerina Maduro Resende;Solteiro;Pós Graduação;F;17/02/1970;51;22/02/2017;;Ativo;#4002;Analista I;Financeiro;4457.08;250;300;5007.08;Rio de Janeiro;RJ;0.73;0.84;0.91;0.83
+201580;Teodoro Santos;Solteiro;Pós Graduação;M;23/12/1974;46;22/02/2017;16/03/2020;Demitido Justa Causa;#6002;Analista III;Financeiro;7428.48;280;300;8008.48;Belo Horizonte;MG;;;;
+201581;Liro Soares Ferrão;Divorciado;Graduação Incompleta;M;11/08/1984;37;25/02/2017;;Ativo;#1003;Estagiário;Comercial;1100;300;0;1400;São Paulo;SP;0.62;0.92;0.94;0.83
+201582;Alrineide Papanicolau Furtado;Casado;Graduação;F;28/02/1966;55;05/03/2017;;Ativo;#4001;Analista I;TI;3979.77;250;200;4429.77;Rio de Janeiro;RJ;0.85;0.94;0.97;0.92
+201583;Vanessa Abreu;Solteiro;Pós Graduação;F;28/05/1998;23;05/03/2017;;Ativo;#6006;Analista III;Logística;6513.92;280;300;7093.92;Belo Horizonte;MG;0.78;0.92;0.75;0.82
+201584;Tomás Esteves Cordeiro;União Estável;Graduação Incompleta;M;22/12/1995;25;06/03/2017;12/11/2018;Demitido Sem Justa Causa;#1006;Estagiário;Logística;1100;300;0;1400;São Paulo;SP;;;;
+201585;Yasmin Serhal;Solteiro;Graduação;F;21/04/1994;27;08/03/2017;10/07/2018;Demitido Sem Justa Causa;#4002;Analista I;Financeiro;4457.08;300;200;4957.08;São Paulo;SP;;;;
+201586;Andaluza Aguiar Vasques;Solteiro;Graduação;F;06/02/1978;43;19/03/2017;;Ativo;#3001;Assistente;TI;2387.86;250;200;2837.86;Rio de Janeiro;RJ;0.84;0.8;0.66;0.77
+201587;Braitner Gonçales Amaral;Casado;Graduação;M;28/07/1965;56;21/03/2017;;Ativo;#4003;Analista I;Comercial;4464.76;250;200;4914.76;Rio de Janeiro;RJ;0.63;0.97;0.97;0.86
+201588;Ibere Patriota Zampol;Solteiro;Graduação;M;27/06/1989;32;21/03/2017;;Ativo;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;0.99;0.92;0.66;0.86
+201589;Reinilza Valadares Borsoi;Casado;Graduação;F;20/08/1965;56;25/03/2017;;Ativo;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;0.61;0.86;0.77;0.75
+201590;Jansser Ramos Papanicolau;Viúvo;Graduação Incompleta;M;27/06/1974;47;27/03/2017;;Ativo;#1004;Estagiário;Recursos Humanos;1100;280;0;1380;Belo Horizonte;MG;0.94;0.8;0.95;0.9
+201591;Isac Menino Borges;Casado;Graduação;M;13/01/1968;53;04/04/2017;;Ativo;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;0.93;0.93;0.96;0.94
+201592;Caroline Rocha;Casado;Pós Graduação;F;28/03/1972;49;11/04/2017;;Ativo;#5006;Analista II;Logística;5211.13;250;300;5761.13;Rio de Janeiro;RJ;0.81;0.86;0.65;0.77
+201593;Gildeglan Junqueira Azeredo;Solteiro;Graduação;M;07/07/1972;49;16/04/2017;;Ativo;#3003;Assistente;Comercial;2678.86;250;200;3128.86;Rio de Janeiro;RJ;0.95;0.83;0.65;0.81
+201594;Delizete Médici Nogueira;União Estável;Graduação Incompleta;F;26/05/1998;23;17/04/2017;09/10/2019;Saída por Vontade do Colaborador;#1002;Estagiário;Financeiro;1100;280;0;1380;Belo Horizonte;MG;;;;
+201595;Alessandro Silva;Solteiro;Pós Graduação;M;05/07/1993;28;22/04/2017;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;300;300;4497.21;São Paulo;SP;0.84;0.98;0.88;0.9
+201596;Aias Queiroz Vasques;Casado;Graduação;M;14/01/1964;57;27/04/2017;;Ativo;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;0.68;0.87;0.9;0.82
+201597;Elonilde Hernandes Souza;Casado;Graduação;F;21/01/1976;45;29/04/2017;;Ativo;#4002;Analista I;Financeiro;4457.08;250;200;4907.08;Rio de Janeiro;RJ;0.92;0.98;0.84;0.91
+201598;Larissa Peres;Solteiro;Pós Graduação;F;12/12/1997;23;06/05/2017;13/09/2017;Demitido Sem Justa Causa;#6006;Analista III;Logística;6513.92;280;300;7093.92;Belo Horizonte;MG;;;;
+201599;Deiwid Fernandes Lopes;Casado;Graduação Incompleta;M;02/08/1966;55;13/05/2017;;Ativo;#1003;Estagiário;Comercial;1100;250;0;1350;Rio de Janeiro;RJ;0.79;0.95;0.86;0.87
+201600;Edelcio Bispo Gonzaga;Solteiro;Graduação;M;22/01/1995;26;24/05/2017;01/03/2018;Saída por Vontade do Colaborador;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;;;;
+201601;Rafaela Gomes;Solteiro;Graduação;F;04/07/1990;31;30/05/2017;07/09/2019;Demitido Justa Causa;#6004;Analista III;Recursos Humanos;6495.36;210;200;6905.36;Vitória;ES;;;;
+201602;Diovane Nantes Melo;Casado;Graduação;M;24/10/1989;31;31/05/2017;;Ativo;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;0.63;0.81;0.7;0.71
+201603;Carmenilza Santarrosa Santacruz;Casado;Pós Graduação;F;27/02/1982;39;03/06/2017;;Ativo;#4002;Analista I;Financeiro;4457.08;210;300;4967.08;Vitória;ES;0.77;0.86;0.82;0.82
+201604;Fabio Santana;Casado;Pós Graduação;M;15/09/1979;42;19/06/2017;;Ativo;#4002;Analista I;Financeiro;4457.08;300;300;5057.08;São Paulo;SP;0.69;0.81;0.71;0.74
+201605;Levick Hernandes Gouveia;Solteiro;Pós Graduação;M;19/02/1966;55;23/06/2017;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;300;300;2938.32;São Paulo;SP;0.9;0.84;0.83;0.86
+201606;Dougliane Azevedo Peçanha;Casado;Graduação;F;03/03/1987;34;09/07/2017;27/06/2018;Saída por Vontade do Colaborador;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;;;;
+201607;Marcivania Bandeira Namorado;Viúvo;Graduação Incompleta;F;03/05/1974;47;12/07/2017;;Ativo;#1004;Estagiário;Recursos Humanos;1100;250;0;1350;Rio de Janeiro;RJ;0.96;0.95;0.66;0.86
+201608;Cleidilane Bernades Assis;Solteiro;Graduação Incompleta;F;06/01/1967;54;14/07/2017;31/08/2018;Demitido Sem Justa Causa;#1005;Estagiário;Operacional;1100;300;0;1400;São Paulo;SP;;;;
+201609;Lucas Cesar Moretti Dos Santos;Solteiro;Graduação;F;01/08/1979;42;15/07/2017;06/05/2020;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;250;200;4907.08;Rio de Janeiro;RJ;;;;
+201610;Edvino Homem Leite;Divorciado;Graduação Incompleta;M;21/06/1991;30;16/07/2017;;Ativo;#1002;Estagiário;Financeiro;1100;250;0;1350;Rio de Janeiro;RJ;0.95;0.87;0.66;0.83
+201611;Elonice Encarnação França;Solteiro;Graduação;F;08/03/1985;36;17/07/2017;01/09/2019;Demitido Justa Causa;#3002;Assistente;Financeiro;2674.25;210;200;3084.25;Vitória;ES;;;;
+201612;Arco Andrada Amor;Solteiro;Graduação Incompleta;M;22/12/1989;31;24/07/2017;;Ativo;#1002;Estagiário;Financeiro;1100;280;0;1380;Belo Horizonte;MG;1;1;0.95;0.98
+201613;Katiuscia Moreno;Casado;Pós Graduação;F;14/11/1972;48;30/07/2017;;Ativo;#6003;Analista III;Comercial;7441.28;300;300;8041.28;São Paulo;SP;0.92;0.8;0.77;0.83
+201614;Eric Faro Anjos;Solteiro;Graduação;M;31/07/1962;59;03/08/2017;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.7;0.97;0.65;0.77
+201615;Djamal Gato Falópio;Divorciado;Pós Graduação;M;12/12/1978;42;06/08/2017;17/04/2020;Demitido Justa Causa;#6006;Analista III;Logística;6513.92;300;300;7113.92;São Paulo;SP;;;;
+201616;Dávi Ramalhete Batista;Solteiro;Graduação;M;02/08/1974;47;09/08/2017;23/11/2017;Demitido Justa Causa;#3006;Assistente;Logística;2345.01;250;200;2795.01;Rio de Janeiro;RJ;;;;
+201617;Alvenira Paiva Fonseca;Solteiro;Graduação;F;31/10/1996;24;12/08/2017;;Ativo;#4002;Analista I;Financeiro;4457.08;210;200;4867.08;Vitória;ES;0.96;0.93;0.83;0.91
+201618;Cristiane Hora;Casado;Mestrado;F;12/07/1962;59;17/08/2017;19/10/2019;Demitido Sem Justa Causa;#7003;Supervisor;Comercial;9301.6;300;500;10101.6;São Paulo;SP;;;;
+201619;Edjonas Adorno Ferreira;Solteiro;Graduação;M;01/08/1994;27;19/08/2017;01/03/2020;Demitido Justa Causa;#5005;Analista II;Operacional;5673.47;210;200;6083.47;Vitória;ES;;;;
+201620;Altemis Sanches Coelho;Viúvo;Pós Graduação;M;04/12/1972;48;21/08/2017;14/11/2018;Demitido Sem Justa Causa;#6004;Analista III;Recursos Humanos;6495.36;300;300;7095.36;São Paulo;SP;;;;
+201621;Anardo Leme Castilho;União Estável;Pós Graduação;M;10/08/1996;25;15/09/2017;;Ativo;#6006;Analista III;Logística;6513.92;300;300;7113.92;São Paulo;SP;1;0.86;0.69;0.85
+201622;Ademetrio Pestana Batista;Casado;Graduação;M;12/08/1997;24;23/09/2017;24/09/2019;Demitido Sem Justa Causa;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;;;;
+201623;Álen De Azevedo Sena;Solteiro;Pós Graduação;M;26/05/1992;29;26/09/2017;;Ativo;#8001;Gerente;TI;10364;300;300;10964;São Paulo;SP;0.85;1;0.67;0.84
+201624;Jesmiel Lopes Negrete;Divorciado;Pós Graduação;M;12/01/1988;33;10/10/2017;21/01/2020;Saída por Vontade do Colaborador;#7001;Supervisor;TI;8291.2;250;300;8841.2;Rio de Janeiro;RJ;;;;
+201625;Bruna Thurmer;Solteiro;Pós Graduação;F;05/03/1996;25;23/10/2017;25/11/2019;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;280;300;5037.08;Belo Horizonte;MG;;;;
+201626;Gabriel Chianfa;Solteiro;Pós Graduação;M;07/01/1980;41;01/11/2017;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;280;300;4477.21;Belo Horizonte;MG;0.82;0.8;0.65;0.76
+201627;Adalecio Santarrosa Borba;Casado;Graduação;M;04/03/1975;46;09/11/2017;;Ativo;#3003;Assistente;Comercial;2678.86;300;200;3178.86;São Paulo;SP;0.86;0.9;0.91;0.89
+201628;Brandow Tavares Muniz;Solteiro;Graduação Incompleta;M;18/10/1968;52;14/11/2017;;Ativo;#1002;Estagiário;Financeiro;1100;300;0;1400;São Paulo;SP;0.81;0.99;0.96;0.92
+201629;Deodata Ramalho Hernandes;Casado;Graduação;F;13/01/1989;32;21/11/2017;;Ativo;#3003;Assistente;Comercial;2678.86;210;200;3088.86;Vitória;ES;0.72;0.93;0.99;0.88
+201630;Jasline Cunha Lange;Divorciado;Graduação Incompleta;F;11/01/1978;43;25/11/2017;22/06/2019;Demitido Sem Justa Causa;#1006;Estagiário;Logística;1100;280;0;1380;Belo Horizonte;MG;;;;
+201631;Angelica Antunes Gonçalves;Divorciado;Graduação Incompleta;F;27/04/1994;27;08/12/2017;;Ativo;#1001;Estagiário;TI;1100;250;0;1350;Rio de Janeiro;RJ;0.82;0.86;0.79;0.82
+201632;Vanessa Stefanie Soares De Souza;Casado;Pós Graduação;F;19/11/1986;34;13/12/2017;;Ativo;#7004;Supervisor;Recursos Humanos;8119.2;250;300;8669.2;Rio de Janeiro;RJ;0.81;0.82;0.87;0.83
+201633;Naecio Anchieta Duarte;Solteiro;Graduação;M;15/11/1987;33;13/12/2017;13/07/2018;Demitido Sem Justa Causa;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;;;;
+201634;Thatiane Souza;Casado;Pós Graduação;M;11/09/1978;43;25/12/2017;;Ativo;#5002;Analista II;Financeiro;5942.78;280;300;6522.78;Belo Horizonte;MG;0.63;0.87;0.91;0.8
+201635;Crisnara Pires Pacheco;Solteiro;Graduação Incompleta;F;24/10/1966;54;01/01/2018;;Ativo;#1005;Estagiário;Operacional;1100;300;0;1400;São Paulo;SP;0.9;0.88;0.93;0.9
+201636;Henriky Sampaulo Pinto;Casado;Graduação;M;13/07/1964;57;03/01/2018;;Ativo;#4006;Analista I;Logística;3908.35;300;200;4408.35;São Paulo;SP;0.74;0.81;0.67;0.74
+201637;Landes Álvares Adorno;Solteiro;Graduação;M;22/07/1976;45;03/01/2018;;Ativo;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;0.64;0.91;0.74;0.76
+201638;Eleuterio Pasquim Policarpo;Solteiro;Graduação;M;21/08/1974;47;08/01/2018;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;280;200;4377.21;Belo Horizonte;MG;0.73;0.84;0.75;0.77
+201639;Autamir Coentrão Figueira;Casado;Graduação Incompleta;M;08/08/1964;57;09/01/2018;;Ativo;#1006;Estagiário;Logística;1100;300;0;1400;São Paulo;SP;0.78;0.92;0.65;0.78
+201640;Andreia Aparecida Cardoso;Casado;Graduação;F;12/11/1985;35;13/01/2018;28/07/2019;Demitido Sem Justa Causa;#6001;Analista III;TI;6632.96;210;200;7042.96;Vitória;ES;;;;
+201641;Alvanilda Médici Hora;Divorciado;Graduação;F;12/01/1983;38;18/01/2018;22/02/2020;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;300;200;4964.76;São Paulo;SP;;;;
+201642;Arculana Tavares Albuquerque;Solteiro;Pós Graduação;F;12/08/1979;42;10/02/2018;25/11/2018;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;300;300;5064.76;São Paulo;SP;;;;
+201643;Jaicilene Santarrosa Velasques;Solteiro;Graduação;F;24/07/1981;40;11/02/2018;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;0.85;0.86;0.68;0.8
+201644;Arcanjo Pimenta Ascensão;Solteiro;Graduação;M;21/02/1974;47;14/02/2018;;Ativo;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;0.68;0.82;0.91;0.8
+201645;Petro Antunes Holanda;Solteiro;Pós Graduação;M;14/07/1994;27;17/02/2018;;Ativo;#4006;Analista I;Logística;3908.35;280;300;4488.35;Belo Horizonte;MG;0.63;0.86;0.65;0.71
+201646;Fidias Valadares Mairinque;Solteiro;Graduação;M;22/01/1995;26;20/02/2018;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;300;200;4397.21;São Paulo;SP;0.93;0.99;0.95;0.96
+201647;Ana Mariano;Solteiro;Pós Graduação;F;19/12/1979;41;21/02/2018;22/01/2019;Demitido Sem Justa Causa;#7006;Supervisor;Logística;8142.4;280;300;8722.4;Belo Horizonte;MG;;;;
+201648;Edinario Torquato Ferraz;Solteiro;Pós Graduação;M;09/06/1987;34;21/02/2018;;Ativo;#8001;Gerente;TI;10364;210;300;10874;Vitória;ES;0.78;0.84;0.91;0.84
+201649;Manoel Rogerio Dos Santos Junior;Solteiro;Doutorado;M;23/11/1980;40;23/02/2018;12/08/2018;Demitido Justa Causa;#8004;Gerente;Recursos Humanos;10149;300;800;11249;São Paulo;SP;;;;
+201650;Rihadur Dambros Veloso;Solteiro;Graduação;M;02/01/1985;36;08/03/2018;;Ativo;#3005;Assistente;Operacional;2553.06;210;200;2963.06;Vitória;ES;0.65;0.97;0.92;0.85
+201651;Bruno Gallo;Casado;Graduação;F;29/05/1997;24;14/04/2018;18/01/2019;Demitido Sem Justa Causa;#6004;Analista III;Recursos Humanos;6495.36;300;200;6995.36;São Paulo;SP;;;;
+201652;Jermas Santos;Solteiro;Pós Graduação;M;21/04/1966;55;16/04/2018;;Ativo;#7002;Supervisor;Financeiro;9285.6;210;300;9795.6;Vitória;ES;0.97;0.81;0.65;0.81
+201653;Docilio Encarnação Lopes;Solteiro;Pós Graduação;M;24/04/1971;50;17/04/2018;;Ativo;#4006;Analista I;Logística;3908.35;210;300;4418.35;Vitória;ES;0.68;0.84;0.77;0.76
+201654;Juliana Oleszczak;Solteiro;Pós Graduação;F;12/03/1972;49;30/04/2018;;Ativo;#4003;Analista I;Comercial;4464.76;280;300;5044.76;Belo Horizonte;MG;0.89;1;0.95;0.95
+201655;Manoelson Vasconcelos Camacho;Casado;Graduação Incompleta;M;14/04/1965;56;30/04/2018;09/09/2018;Demitido Justa Causa;#1005;Estagiário;Operacional;1100;280;0;1380;Belo Horizonte;MG;;;;
+201656;Aislon Andrada Figo;Casado;Graduação;M;30/10/1964;56;02/05/2018;;Ativo;#3003;Assistente;Comercial;2678.86;210;200;3088.86;Vitória;ES;0.76;0.81;0.65;0.74
+201657;Fedele Vasconcelos Dias;Solteiro;Pós Graduação;M;05/06/1977;44;08/05/2018;01/11/2019;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;210;300;4418.35;Vitória;ES;;;;
+201658;Arledo Carneiro Pacheco;Solteiro;Pós Graduação;M;13/07/1990;31;10/05/2018;;Ativo;#5006;Analista II;Logística;5211.13;210;300;5721.13;Vitória;ES;0.74;0.85;0.8;0.8
+201659;Allan Henriques Pedrosa;Solteiro;Graduação;M;10/08/1991;30;13/05/2018;;Ativo;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;0.72;1;0.71;0.81
+201660;Leila Silva De Almeida;Solteiro;Pós Graduação;F;07/05/1987;34;18/05/2018;;Ativo;#8005;Gerente;Operacional;11081;280;300;11661;Belo Horizonte;MG;0.84;0.95;0.65;0.81
+201661;Natanias Lacerda Gama;Solteiro;Graduação Incompleta;M;17/10/1970;50;31/05/2018;;Ativo;#1005;Estagiário;Operacional;1100;210;0;1310;Vitória;ES;0.72;0.91;0.9;0.84
+201662;Leonardo Vieira;Casado;Pós Graduação;M;23/11/1962;58;14/06/2018;;Ativo;#5004;Analista II;Recursos Humanos;5196.28;210;300;5706.28;Vitória;ES;0.92;0.87;0.69;0.83
+201663;Dalisio Marques Gama;Solteiro;Graduação;M;13/11/1994;26;16/06/2018;;Ativo;#4001;Analista I;TI;3979.77;250;200;4429.77;Rio de Janeiro;RJ;0.68;0.96;0.88;0.84
+201664;Edwania Álvares Padrão;Casado;Graduação;F;24/06/1971;50;23/06/2018;29/06/2019;Saída por Vontade do Colaborador;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;;
+201665;Eduvaldo Borsoi Valença;Solteiro;Graduação;M;07/01/1986;35;27/06/2018;;Ativo;#3003;Assistente;Comercial;2678.86;210;200;3088.86;Vitória;ES;0.7;0.97;0.95;0.87
+201666;Alexe Lacerda Moraes;Divorciado;Pós Graduação;M;15/10/1987;33;29/06/2018;;Ativo;#7001;Supervisor;TI;8291.2;250;300;8841.2;Rio de Janeiro;RJ;0.86;0.81;0.86;0.84
+201667;Fauez Falqueto Maduro;Solteiro;Graduação;M;30/01/1975;46;30/06/2018;14/09/2019;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;300;200;4964.76;São Paulo;SP;;;;
+201668;Valdonei Francisco;Solteiro;Pós Graduação;M;01/03/1989;32;30/06/2018;07/11/2019;Demitido Justa Causa;#6005;Analista III;Operacional;7091.84;250;300;7641.84;Rio de Janeiro;RJ;;;;
+201669;Atamis Muniz Dambros;Casado;Graduação;M;17/10/1968;52;17/07/2018;29/03/2020;Demitido Sem Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;300;200;4397.21;São Paulo;SP;;;;
+201670;Dulcinara Pedrosa Coutinho;União Estável;Graduação;F;19/10/1995;25;24/07/2018;;Ativo;#5005;Analista II;Operacional;5673.47;210;200;6083.47;Vitória;ES;0.68;0.8;0.66;0.71
+201671;Jeremiah Amaral Pascal;Casado;Pós Graduação;M;07/02/1983;38;27/08/2018;09/07/2019;Demitido Sem Justa Causa;#3002;Assistente;Financeiro;2674.25;280;300;3254.25;Belo Horizonte;MG;;;;
+201672;Cliveraldo Cabral Veloso;Casado;Graduação;M;18/03/1969;52;29/08/2018;;Ativo;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;0.63;0.91;0.99;0.84
+201673;Joaquim Arruda Roma;Solteiro;Pós Graduação;M;27/12/1989;31;14/09/2018;29/08/2019;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;250;300;4458.35;Rio de Janeiro;RJ;;;;
+201674;Omar Rios Ascensão;Divorciado;Mestrado;M;01/08/1982;39;14/09/2018;30/01/2019;Demitido Justa Causa;#8001;Gerente;TI;10364;250;500;11114;Rio de Janeiro;RJ;;;;
+201675;Cledenice Coelho Sampaulo;Casado;Graduação;F;17/03/1963;58;15/09/2018;14/01/2020;Demitido Justa Causa;#5004;Analista II;Recursos Humanos;5196.28;210;200;5606.28;Vitória;ES;;;;
+201676;Gilbran Dorneles Fagundes;Casado;Pós Graduação;M;17/10/1962;58;03/10/2018;;Ativo;#8005;Gerente;Operacional;11081;280;300;11661;Belo Horizonte;MG;0.93;0.85;1;0.93
+201677;Leiliani Borrher;Casado;Pós Graduação;F;07/07/1976;45;05/10/2018;;Ativo;#7002;Supervisor;Financeiro;9285.6;280;300;9865.6;Belo Horizonte;MG;0.76;0.86;0.81;0.81
+201678;Alzinea Jardim Porto;Solteiro;Graduação;F;03/04/1990;31;05/10/2018;13/02/2020;Demitido Justa Causa;#3003;Assistente;Comercial;2678.86;250;200;3128.86;Rio de Janeiro;RJ;;;;
+201679;Giovana Oliveira;Solteiro;Graduação;F;14/01/1960;61;07/10/2018;;Ativo;#6006;Analista III;Logística;6513.92;250;200;6963.92;Rio de Janeiro;RJ;0.89;0.98;0.71;0.86
+201680;Adriana Costa;Casado;Graduação;F;18/03/1994;27;25/10/2018;17/04/2020;Saída por Vontade do Colaborador;#5005;Analista II;Operacional;5673.47;250;200;6123.47;Rio de Janeiro;RJ;;;;
+201681;Ana Przylepa;Casado;Pós Graduação;F;12/02/1977;44;30/10/2018;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;280;300;4477.21;Belo Horizonte;MG;0.74;0.98;0.8;0.84
+201682;Andrick Barroso Moreira;Divorciado;Pós Graduação;M;18/07/1988;33;31/10/2018;;Ativo;#4001;Analista I;TI;3979.77;210;300;4489.77;Vitória;ES;0.8;0.84;0.71;0.78
+201683;Marinisse Monteiro Botelho;Solteiro;Mestrado;F;09/05/1970;51;02/11/2018;;Ativo;#7006;Supervisor;Logística;8142.4;250;500;8892.4;Rio de Janeiro;RJ;0.91;0.99;0.94;0.95
+201684;Paulo César De Souza;Casado;Pós Graduação;M;28/11/1969;51;03/11/2018;12/08/2019;Saída por Vontade do Colaborador;#4005;Analista I;Operacional;4255.1;280;300;4835.1;Belo Horizonte;MG;;;;
+201685;Cleonardo Leite Veiga;Casado;Pós Graduação;M;03/06/1980;41;03/11/2018;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;300;300;4497.21;São Paulo;SP;0.87;0.81;0.7;0.79
+201686;Andressa Avila;Solteiro;Graduação;F;24/10/1987;33;09/11/2018;;Ativo;#4001;Analista I;TI;3979.77;300;200;4479.77;São Paulo;SP;0.77;0.89;0.87;0.84
+201687;Juliana Dutra;Casado;Pós Graduação;F;01/04/1994;27;11/11/2018;;Ativo;#6006;Analista III;Logística;6513.92;210;300;7023.92;Vitória;ES;1;0.8;0.96;0.92
+201688;Ascendino Oliveira;Casado;Pós Graduação;M;25/09/1971;50;22/11/2018;;Ativo;#5001;Analista II;TI;5306.36;280;300;5886.36;Belo Horizonte;MG;0.65;0.95;0.85;0.82
+201689;Aldamira Soeiro Reis;Viúvo;Pós Graduação;F;29/12/1972;48;27/11/2018;15/06/2019;Demitido Justa Causa;#6005;Analista III;Operacional;7091.84;300;300;7691.84;São Paulo;SP;;;;
+201690;Minas Madureira Fortaleza;Casado;Pós Graduação;M;15/01/1961;60;04/12/2018;16/02/2020;Demitido Sem Justa Causa;#7001;Supervisor;TI;8291.2;280;300;8871.2;Belo Horizonte;MG;;;;
+201691;Vrademir Zampol Locatelli;Casado;Graduação Incompleta;M;20/05/1963;58;07/12/2018;;Ativo;#1006;Estagiário;Logística;1100;300;0;1400;São Paulo;SP;0.79;0.81;0.75;0.78
+201692;Fauze Homem Café;Casado;Graduação;M;05/10/1991;30;13/12/2018;;Ativo;#4003;Analista I;Comercial;4464.76;250;200;4914.76;Rio de Janeiro;RJ;0.95;0.95;0.71;0.87
+201693;Leia Machado Chaves;Solteiro;Pós Graduação;F;11/06/1970;51;18/12/2018;;Ativo;#4005;Analista I;Operacional;4255.1;280;300;4835.1;Belo Horizonte;MG;0.81;0.95;0.93;0.9
+201694;Enando Pedrosa Guimarães;Viúvo;Graduação Incompleta;M;11/12/1974;46;22/12/2018;;Ativo;#1005;Estagiário;Operacional;1100;210;0;1310;Vitória;ES;0.9;0.85;0.87;0.87
+201695;Daril Outeiro Viana;Solteiro;Pós Graduação;M;13/07/1998;23;24/12/2018;;Ativo;#4006;Analista I;Logística;3908.35;300;300;4508.35;São Paulo;SP;0.7;0.83;0.88;0.8
+201696;Gabriela Silva;Casado;Pós Graduação;F;23/03/1972;49;25/12/2018;;Ativo;#4006;Analista I;Logística;3908.35;210;300;4418.35;Vitória;ES;0.75;0.89;0.78;0.81
+201697;Elvis Trapani;Casado;Graduação;M;03/04/1988;33;04/01/2019;;Ativo;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;;0.93;0.69;0.81
+201698;Marcia Lacerda;Solteiro;Pós Graduação;F;16/12/1997;23;05/01/2019;28/03/2020;Demitido Sem Justa Causa;#4001;Analista I;TI;3979.77;250;300;4529.77;Rio de Janeiro;RJ;;;;
+201699;Katia Silva;Solteiro;Graduação;F;13/06/1992;29;13/01/2019;;Ativo;#5006;Analista II;Logística;5211.13;280;200;5691.13;Belo Horizonte;MG;;0.85;0.67;0.76
+201700;Diorrana Sampaio Cruz;Casado;Pós Graduação;F;11/04/1982;39;14/01/2019;;Ativo;#4006;Analista I;Logística;3908.35;280;300;4488.35;Belo Horizonte;MG;;0.94;0.69;0.82
+201701;Ledio Álvares Anchieta;Solteiro;Graduação;M;17/06/1981;40;21/01/2019;;Ativo;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;;0.93;0.91;0.92
+201702;Jacina Ferraz Constante;Solteiro;Graduação;F;07/12/1984;36;29/01/2019;28/09/2019;Demitido Justa Causa;#3003;Assistente;Comercial;2678.86;280;200;3158.86;Belo Horizonte;MG;;;;
+201703;Moises De Jesus Alves;Casado;Mestrado;M;16/06/1968;53;31/01/2019;15/06/2019;Demitido Justa Causa;#8002;Gerente;Financeiro;11607;250;500;12357;Rio de Janeiro;RJ;;;;
+201704;Prashil Ferraz Café;Divorciado;Graduação Incompleta;M;03/05/1986;35;01/02/2019;;Ativo;#1001;Estagiário;TI;1100;280;0;1380;Belo Horizonte;MG;;0.82;0.99;0.91
+201705;Dival Paiva Cunha;Solteiro;Graduação;M;18/12/1994;26;04/02/2019;08/12/2019;Demitido Sem Justa Causa;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;;
+201706;Clicie Saramago Barbosa;Solteiro;Graduação;F;09/08/1960;61;21/02/2019;;Ativo;#3006;Assistente;Logística;2345.01;250;200;2795.01;Rio de Janeiro;RJ;;0.83;0.88;0.86
+201707;Luis Oscar Wolowski Marques;Solteiro;Pós Graduação;M;08/07/1978;43;23/02/2019;08/05/2020;Demitido Justa Causa;#7002;Supervisor;Financeiro;9285.6;250;300;9835.6;Rio de Janeiro;RJ;;;;
+201708;Eleonara Martins;Solteiro;Graduação;F;20/02/1980;41;03/03/2019;25/12/2019;Demitido Justa Causa;#6001;Analista III;TI;6632.96;280;200;7112.96;Belo Horizonte;MG;;;;
+201709;Aldaise Freire Barbosa;Divorciado;Graduação Incompleta;F;14/02/1995;26;04/03/2019;;Ativo;#1004;Estagiário;Recursos Humanos;1100;210;0;1310;Vitória;ES;;0.86;0.92;0.89
+201710;Willhiam Correa;Casado;Mestrado;M;11/03/1969;52;05/03/2019;;Ativo;#7002;Supervisor;Financeiro;9285.6;250;500;10035.6;Rio de Janeiro;RJ;;0.97;0.81;0.89
+201711;Naiara Kutenski;Solteiro;Graduação;F;02/01/1998;23;05/03/2019;;Ativo;#4006;Analista I;Logística;3908.35;300;200;4408.35;São Paulo;SP;;0.86;0.84;0.85
+201712;Jovander Pascal Henriques;Divorciado;Graduação Incompleta;M;27/01/1983;38;11/03/2019;21/10/2019;Demitido Sem Justa Causa;#1005;Estagiário;Operacional;1100;280;0;1380;Belo Horizonte;MG;;;;
+201713;Karen Ferreira;Casado;Graduação;F;29/06/1967;54;26/03/2019;;Ativo;#4005;Analista I;Operacional;4255.1;300;200;4755.1;São Paulo;SP;;0.96;0.77;0.87
+201714;Janaina Louise Souza;Solteiro;Pós Graduação;F;25/05/1971;50;28/03/2019;27/03/2020;Demitido Justa Causa;#5004;Analista II;Recursos Humanos;5196.28;280;300;5776.28;Belo Horizonte;MG;;;;
+201715;Alexandre Melo Viana;Solteiro;Graduação;M;13/08/1983;38;31/03/2019;;Ativo;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;;0.84;0.77;0.81
+201716;Cirenia Mello Prudente;União Estável;Graduação Incompleta;F;26/12/1999;21;01/04/2019;;Ativo;#1002;Estagiário;Financeiro;1100;280;0;1380;Belo Horizonte;MG;;0.86;0.76;0.81
+201717;Soreia Melo Coelho;Solteiro;Graduação Incompleta;F;02/08/1972;49;11/04/2019;;Ativo;#1003;Estagiário;Comercial;1100;210;0;1310;Vitória;ES;;0.91;0.94;0.93
+201718;Jorlison Álvares Leme;Solteiro;Pós Graduação;M;17/06/1972;49;13/04/2019;;Ativo;#6006;Analista III;Logística;6513.92;210;300;7023.92;Vitória;ES;;0.92;0.89;0.91
+201719;Libério Santana Carmo;Casado;Pós Graduação;M;27/04/1990;31;24/04/2019;;Ativo;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;;0.92;0.69;0.81
+201720;Laurentiu Coelho Mendes;Casado;Graduação;M;28/06/1980;41;25/04/2019;;Ativo;#4005;Analista I;Operacional;4255.1;210;200;4665.1;Vitória;ES;;0.92;0.7;0.81
+201721;Julano Arruda Hungria;Casado;Graduação;M;02/01/1988;33;27/04/2019;;Ativo;#4001;Analista I;TI;3979.77;250;200;4429.77;Rio de Janeiro;RJ;;0.85;0.7;0.78
+201722;Antonico Cotrim Negreiros;Solteiro;Mestrado;M;20/03/1970;51;29/04/2019;;Ativo;#7003;Supervisor;Comercial;9301.6;300;500;10101.6;São Paulo;SP;;0.83;0.85;0.84
+201723;Leandro Correia De Melo;Casado;Graduação;M;22/02/2000;21;30/04/2019;16/01/2020;Demitido Justa Causa;#5005;Analista II;Operacional;5673.47;300;200;6173.47;São Paulo;SP;;;;
+201724;Dieni Ramos Bicalho;Divorciado;Pós Graduação;F;21/09/1994;27;03/05/2019;11/02/2020;Demitido Justa Causa;#7002;Supervisor;Financeiro;9285.6;280;300;9865.6;Belo Horizonte;MG;;;;
+201725;Gerald Galvão Santacruz;Solteiro;Graduação;M;24/12/1968;52;07/05/2019;;Ativo;#3001;Assistente;TI;2387.86;250;200;2837.86;Rio de Janeiro;RJ;;0.87;1;0.94
+201726;Andreza Anjos Castilho;Divorciado;Graduação Incompleta;F;08/08/1990;31;08/05/2019;15/02/2020;Saída por Vontade do Colaborador;#1002;Estagiário;Financeiro;1100;300;0;1400;São Paulo;SP;;;;
+201727;Lourdes Weiduschath;Casado;Graduação;F;21/10/1988;32;18/05/2019;;Ativo;#6003;Analista III;Comercial;7441.28;250;200;7891.28;Rio de Janeiro;RJ;;0.92;0.87;0.9
+201728;Micaela Bezerra;Solteiro;Pós Graduação;F;17/10/1977;43;20/05/2019;;Ativo;#6006;Analista III;Logística;6513.92;250;300;7063.92;Rio de Janeiro;RJ;;0.97;0.72;0.85
+201729;Luiz Carlos Gorchinski;Casado;Graduação;M;17/03/1961;60;30/05/2019;;Ativo;#4003;Analista I;Comercial;4464.76;210;200;4874.76;Vitória;ES;;0.92;0.74;0.83
+201730;Jonis Carboni;Casado;Pós Graduação;M;28/09/1976;45;31/05/2019;03/12/2019;Demitido Justa Causa;#7004;Supervisor;Recursos Humanos;8119.2;250;300;8669.2;Rio de Janeiro;RJ;;;;
+201731;Melcia Nóbrega Locatelli;Solteiro;Graduação;F;08/10/1977;43;03/06/2019;25/09/2019;Demitido Justa Causa;#3005;Assistente;Operacional;2553.06;280;200;3033.06;Belo Horizonte;MG;;;;
+201732;Rodrigo Silva;Solteiro;Pós Graduação;M;21/02/2000;21;03/06/2019;;Ativo;#6004;Analista III;Recursos Humanos;6495.36;280;300;7075.36;Belo Horizonte;MG;;0.85;0.94;0.9
+201733;Gilliard Martins;Solteiro;Pós Graduação;M;15/02/1961;60;10/06/2019;13/12/2019;Demitido Sem Justa Causa;#8005;Gerente;Operacional;11081;280;300;11661;Belo Horizonte;MG;;;;
+201734;Adjailton Furquim Vilela;Casado;Graduação Incompleta;M;30/11/1963;57;10/06/2019;;Ativo;#1003;Estagiário;Comercial;1100;210;0;1310;Vitória;ES;;1;0.72;0.86
+201735;Josinei Rocha;Solteiro;Graduação;M;17/12/1960;60;27/06/2019;;Ativo;#5002;Analista II;Financeiro;5942.78;210;200;6352.78;Vitória;ES;;0.94;0.98;0.96
+201736;Igor Diegues Gato;Casado;Graduação;M;03/03/1989;32;03/07/2019;07/11/2019;Demitido Justa Causa;#3004;Assistente;Recursos Humanos;2338.32;300;200;2838.32;São Paulo;SP;;;;
+201737;Malvina Galvão Lins;Divorciado;Graduação Incompleta;F;12/09/1992;29;03/07/2019;;Ativo;#1006;Estagiário;Logística;1100;280;0;1380;Belo Horizonte;MG;;0.98;0.92;0.95
+201738;Joice Silva;Solteiro;Mestrado;F;09/07/1983;38;05/07/2019;;Ativo;#6003;Analista III;Comercial;7441.28;280;500;8221.28;Belo Horizonte;MG;;0.8;0.69;0.75
+201739;Algemir Luz Camões;Solteiro;Pós Graduação;M;06/08/1990;31;06/07/2019;;Ativo;#3006;Assistente;Logística;2345.01;280;300;2925.01;Belo Horizonte;MG;;0.9;0.97;0.94
+201740;Belga Carnaval Ferrolho;Divorciado;Mestrado;F;15/10/1989;31;09/07/2019;;Ativo;#7001;Supervisor;TI;8291.2;250;500;9041.2;Rio de Janeiro;RJ;;0.96;0.73;0.85
+201741;Zunira Faria Gouveia;Solteiro;Graduação;F;19/08/1977;44;19/07/2019;;Ativo;#3002;Assistente;Financeiro;2674.25;280;200;3154.25;Belo Horizonte;MG;;0.96;0.71;0.84
+201742;Anicleia Hora Bragança;União Estável;Pós Graduação;F;05/06/2000;21;19/07/2019;;Ativo;#6004;Analista III;Recursos Humanos;6495.36;300;300;7095.36;São Paulo;SP;;0.91;0.92;0.92
+201743;Adina Falqueto Leme;Solteiro;Pós Graduação;F;22/04/1968;53;22/07/2019;05/01/2020;Demitido Justa Causa;#4001;Analista I;TI;3979.77;250;300;4529.77;Rio de Janeiro;RJ;;;;
+201744;Carla Valendorf;Casado;Pós Graduação;M;15/05/1964;57;24/07/2019;;Ativo;#7001;Supervisor;TI;8291.2;280;300;8871.2;Belo Horizonte;MG;;0.83;0.88;0.86
+201745;Fernanda Arriola Rochadel;Solteiro;Mestrado;F;19/05/1972;49;27/07/2019;;Ativo;#7006;Supervisor;Logística;8142.4;300;500;8942.4;São Paulo;SP;;0.85;0.78;0.82
+201746;Elianderson Fernandes Parga;Casado;Graduação;M;14/05/2000;21;14/08/2019;;Ativo;#3003;Assistente;Comercial;2678.86;250;200;3128.86;Rio de Janeiro;RJ;;0.87;0.98;0.93
+201747;Elnora Ferrão Carmo;Casado;Graduação;F;22/11/1975;45;20/08/2019;06/04/2020;Demitido Justa Causa;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;;;;
+201748;Yasmin Proescholdt;Casado;Pós Graduação;F;25/03/1989;32;29/08/2019;;Ativo;#8005;Gerente;Operacional;11081;210;300;11591;Vitória;ES;;1;0.92;0.96
+201749;Leanete Lange Cotrim;Casado;Graduação;F;24/01/1966;55;20/09/2019;10/02/2020;Demitido Justa Causa;#3006;Assistente;Logística;2345.01;210;200;2755.01;Vitória;ES;;;;
+201750;Lilian Silva;Solteiro;Pós Graduação;F;11/04/1965;56;21/09/2019;21/01/2020;Demitido Sem Justa Causa;#6004;Analista III;Recursos Humanos;6495.36;280;300;7075.36;Belo Horizonte;MG;;;;
+201751;Gabriel Grego;Solteiro;Doutorado;M;07/05/1995;26;24/09/2019;;Ativo;#8003;Gerente;Comercial;11627;210;800;12637;Vitória;ES;;0.94;0.76;0.85
+201752;Geovanes Saragoça Valente;Casado;Graduação;M;27/09/2001;20;25/09/2019;;Ativo;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;;1;0.73;0.87
+201753;Rómulo Assis Quaresma;Casado;Graduação;M;22/02/1982;39;02/10/2019;29/01/2020;Demitido Justa Causa;#4006;Analista I;Logística;3908.35;300;200;4408.35;São Paulo;SP;;;;
+201754;Elifa Lins Farias;Solteiro;Graduação;M;02/06/1979;42;02/10/2019;;Ativo;#3005;Assistente;Operacional;2553.06;250;200;3003.06;Rio de Janeiro;RJ;;0.89;0.97;0.93
+201755;Guilhermano Andrada Antunes;Divorciado;Graduação;M;25/02/2001;20;03/10/2019;;Ativo;#3005;Assistente;Operacional;2553.06;250;200;3003.06;Rio de Janeiro;RJ;;0.89;0.75;0.82
+201756;Elizelton Morato Pasquim;Solteiro;Pós Graduação;M;29/05/1995;26;09/10/2019;15/04/2020;Demitido Justa Causa;#3006;Assistente;Logística;2345.01;300;300;2945.01;São Paulo;SP;;;;
+201757;Virginia Hora Pestana;Solteiro;Graduação;F;07/10/1976;44;12/10/2019;;Ativo;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;;0.98;0.77;0.88
+201758;Ana Mastelini;Solteiro;Pós Graduação;F;02/12/1984;36;29/10/2019;28/01/2020;Demitido Justa Causa;#6004;Analista III;Recursos Humanos;6495.36;250;300;7045.36;Rio de Janeiro;RJ;;;;
+201759;Lucas Neideck;Casado;Pós Graduação;M;29/12/1979;41;30/10/2019;08/03/2020;Demitido Sem Justa Causa;#5004;Analista II;Recursos Humanos;5196.28;210;300;5706.28;Vitória;ES;;;;
+201760;Diégo Pinto Prado;Casado;Graduação;M;14/07/1992;29;07/11/2019;14/03/2020;Demitido Sem Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;210;200;4307.21;Vitória;ES;;;;
+201761;Andresca Nogueira Peres;Solteiro;Graduação;F;26/12/1993;27;07/11/2019;;Ativo;#5003;Analista II;Comercial;5953.02;300;200;6453.02;São Paulo;SP;;0.81;0.75;0.78
+201762;Kervin Resende Pais;Solteiro;Pós Graduação;M;22/08/1999;22;13/11/2019;21/03/2020;Demitido Sem Justa Causa;#5003;Analista II;Comercial;5953.02;210;300;6463.02;Vitória;ES;;;;
+201763;Ostap Nunes Monteiro;Divorciado;Graduação Incompleta;M;13/02/1986;35;24/11/2019;22/02/2020;Saída por Vontade do Colaborador;#1004;Estagiário;Recursos Humanos;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201764;Ademires Saramago Castilho;Solteiro;Graduação;M;05/10/1987;34;25/11/2019;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;210;200;2748.32;Vitória;ES;;0.97;0.95;0.96
+201765;André Da Silva Rockembach;Solteiro;Mestrado;M;24/11/2000;20;04/12/2019;;Ativo;#8004;Gerente;Recursos Humanos;10149;250;500;10899;Rio de Janeiro;RJ;;0.88;0.7;0.79
+201766;Aderino Pestana Mendes;Solteiro;Pós Graduação;M;08/03/1980;41;15/12/2019;07/05/2020;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;280;300;5037.08;Belo Horizonte;MG;;;;
+201767;Edijania Aragão Encarnação;Solteiro;Graduação;F;05/10/1992;29;19/12/2019;11/04/2020;Demitido Justa Causa;#3004;Assistente;Recursos Humanos;2338.32;280;200;2818.32;Belo Horizonte;MG;;;;
+201768;Jéssica Meira Evangelista;Solteiro;Graduação;F;28/04/1969;52;23/12/2019;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;210;200;4307.21;Vitória;ES;;0.91;0.85;0.88
+201769;Cleiciano Álvares Outeiro;Casado;Graduação;M;26/08/1964;57;24/12/2019;28/03/2020;Demitido Justa Causa;#8002;Gerente;Financeiro;11607;300;200;12107;São Paulo;SP;;;;
+201770;Seliel Carneiro Curado;Casado;Pós Graduação;M;08/08/2000;21;30/12/2019;06/05/2020;Saída por Vontade do Colaborador;#4002;Analista I;Financeiro;4457.08;280;300;5037.08;Belo Horizonte;MG;;;;
+201771;Arilma Patriota Soares;Solteiro;Pós Graduação;F;23/03/1999;22;02/01/2020;08/04/2020;Demitido Sem Justa Causa;#4006;Analista I;Logística;3908.35;300;300;4508.35;São Paulo;SP;;;;
+201772;Arace Borba Uribe;Solteiro;Graduação;F;18/07/2000;21;04/01/2020;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;280;200;2818.32;Belo Horizonte;MG;;;0.68;0.68
+201773;Artemildo Mello Coentrão;Solteiro;Pós Graduação;M;26/03/1984;37;14/01/2020;;Ativo;#4006;Analista I;Logística;3908.35;300;300;4508.35;São Paulo;SP;;;0.74;0.74
+201774;Aice Gama Fernandes;Solteiro;Graduação;M;03/10/1986;35;15/01/2020;01/05/2020;Demitido Sem Justa Causa;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;;;;
+201775;Alvario Dorneles Xavier;Solteiro;Graduação Incompleta;M;09/01/1970;51;16/01/2020;;Ativo;#1001;Estagiário;TI;1100;300;0;1400;São Paulo;SP;;;0.72;0.72
+201776;Aldian Gusmão Valença;Casado;Pós Graduação;M;23/04/2001;20;21/01/2020;;Ativo;#4002;Analista I;Financeiro;4457.08;280;300;5037.08;Belo Horizonte;MG;;;0.87;0.87
+201777;Genomar Vaz Aragão;Casado;Graduação;M;13/02/1973;48;22/01/2020;;Ativo;#3005;Assistente;Operacional;2553.06;280;200;3033.06;Belo Horizonte;MG;;;0.77;0.77
+201778;Ednilse Rodrigues Pascal;Solteiro;Graduação;F;06/11/1963;57;26/01/2020;;Ativo;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;;;0.8;0.8
+201779;Karla Adriane Boamorte;Casado;Pós Graduação;F;04/01/1962;59;05/02/2020;;Ativo;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;;;0.98;0.98
+201780;Larisse Holanda;Solteiro;Graduação;F;03/05/2001;20;08/02/2020;;Ativo;#5005;Analista II;Operacional;5673.47;210;200;6083.47;Vitória;ES;;;0.82;0.82
+201781;Amanda Tozi;Casado;Pós Graduação;F;18/11/1973;47;22/02/2020;;Ativo;#5006;Analista II;Logística;5211.13;210;300;5721.13;Vitória;ES;;;0.85;0.85
+201782;Mario Junior;Casado;Graduação;M;15/03/1989;32;26/02/2020;;Ativo;#8004;Gerente;Recursos Humanos;10149;300;200;10649;São Paulo;SP;;;0.81;0.81
+201783;Adarlan Garrastazu Figueiroa;Solteiro;Pós Graduação;M;20/05/1964;57;06/03/2020;;Ativo;#5003;Analista II;Comercial;5953.02;250;300;6503.02;Rio de Janeiro;RJ;;;0.97;0.97
+201784;Germane Guimarães Bispo;Casado;Graduação;F;09/07/1990;31;10/03/2020;05/10/2020;Saída por Vontade do Colaborador;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;;;;
+201785;Edivanice Teixeira Santana;Casado;Graduação Incompleta;F;02/06/1963;58;12/03/2020;28/11/2020;Saída por Vontade do Colaborador;#1006;Estagiário;Logística;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201786;Rivanete Mesquita Bispo;Casado;Graduação;F;23/11/1984;36;20/03/2020;26/10/2020;Saída por Vontade do Colaborador;#3004;Assistente;Recursos Humanos;2338.32;300;200;2838.32;São Paulo;SP;;;;
+201787;Jéssica Sonia De Souza;Casado;Graduação;F;01/05/1999;22;27/03/2020;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;210;200;4307.21;Vitória;ES;;;0.96;0.96
+201788;Vansh Pensamento Valadares;Solteiro;Graduação;M;13/07/1985;36;12/04/2020;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;280;200;2818.32;Belo Horizonte;MG;;;0.69;0.69
+201789;Noé Vaz Saraiva;Solteiro;Graduação;M;14/08/1977;44;17/04/2020;18/11/2020;Demitido Sem Justa Causa;#4003;Analista I;Comercial;4464.76;210;200;4874.76;Vitória;ES;;;;
+201790;Djerson Serrano Carneiro;Casado;Graduação;M;29/08/1979;42;22/04/2020;;Ativo;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;;;0.88;0.88
+201791;Igor Chaves;Solteiro;Graduação;M;23/10/1964;56;25/04/2020;10/08/2020;Demitido Sem Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;280;200;4377.21;Belo Horizonte;MG;;;;
+201792;Aldenias Borsoi Fernandes;Solteiro;Graduação;M;17/06/1974;47;01/05/2020;17/01/2021;Demitido Justa Causa;#4002;Analista I;Financeiro;4457.08;300;200;4957.08;São Paulo;SP;;;;
+201793;Pâmela Silva;Solteiro;Pós Graduação;F;20/07/1961;60;02/05/2020;06/09/2020;Demitido Justa Causa;#4001;Analista I;TI;3979.77;300;300;4579.77;São Paulo;SP;;;;
+201794;Jocksan Meireles Carvalhosa;Casado;Graduação;M;16/06/1963;58;03/05/2020;;Ativo;#3001;Assistente;TI;2387.86;280;200;2867.86;Belo Horizonte;MG;;;0.88;0.88
+201795;Pricila Rodrigues Da Silva Gindro;Casado;Pós Graduação;M;13/11/1991;29;09/05/2020;;Ativo;#4003;Analista I;Comercial;4464.76;210;300;4974.76;Vitória;ES;;;0.81;0.81
+201796;Neison Castro Holanda;Concubinato;Graduação;M;11/07/1981;40;11/05/2020;18/11/2020;Demitido Justa Causa;#4001;Analista I;TI;3979.77;300;200;4479.77;São Paulo;SP;;;;
+201797;Charleton Frota Aleluia;Casado;Pós Graduação;M;15/10/1969;51;15/05/2020;14/10/2020;Demitido Sem Justa Causa;#3003;Assistente;Comercial;2678.86;300;300;3278.86;São Paulo;SP;;;;
+201798;Isaque Alves Santarrosa;Casado;Graduação Incompleta;M;31/07/1966;55;26/05/2020;03/06/2021;Demitido Justa Causa;#1004;Estagiário;Recursos Humanos;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201799;Ciridiao Namorado Magalhães;Casado;Graduação;M;14/11/1971;49;30/05/2020;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;;;0.97;0.97
+201800;Alenson Ramos Adães;Casado;Graduação;M;28/10/1991;29;03/06/2020;;Ativo;#3003;Assistente;Comercial;2678.86;280;200;3158.86;Belo Horizonte;MG;;;0.85;0.85
+201801;Junilda Santos Mendonça;Solteiro;Graduação;F;10/10/1972;48;03/06/2020;27/12/2020;Demitido Justa Causa;#5004;Analista II;Recursos Humanos;5196.28;280;200;5676.28;Belo Horizonte;MG;;;;
+201802;Gislene Gomes Silva;Casado;Graduação;F;24/12/1988;32;08/06/2020;21/05/2021;Demitido Sem Justa Causa;#4003;Analista I;Comercial;4464.76;280;200;4944.76;Belo Horizonte;MG;;;;
+201803;Magnobaldo Fortaleza Bueno;Casado;Graduação;M;11/05/1971;50;28/06/2020;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;;;0.82;0.82
+201804;Claudinet Madureira Galvão;Divorciado;Pós Graduação;M;03/04/1982;39;04/07/2020;04/01/2021;Demitido Justa Causa;#7003;Supervisor;Comercial;9301.6;300;300;9901.6;São Paulo;SP;;;;
+201805;Odavio Pascal Batista;Casado;Graduação;M;29/04/1986;35;05/07/2020;19/04/2021;Demitido Justa Causa;#3005;Assistente;Operacional;2553.06;300;200;3053.06;São Paulo;SP;;;;
+201806;Franquimar Dambros Madureira;Divorciado;Graduação Incompleta;M;21/07/1979;42;05/07/2020;;Ativo;#1001;Estagiário;TI;1100;280;0;1380;Belo Horizonte;MG;;;0.78;0.78
+201807;Arminio Alves Costa;União Estável;Graduação Incompleta;M;06/12/1999;21;05/07/2020;;Ativo;#1001;Estagiário;TI;1100;250;0;1350;Rio de Janeiro;RJ;;;0.91;0.91
+201808;Jordon Siqueira Frota;Solteiro;Graduação Incompleta;M;28/12/1969;51;06/07/2020;;Ativo;#1005;Estagiário;Operacional;1100;300;0;1400;São Paulo;SP;;;0.92;0.92
+201809;Alexsia Sanches Morais;Solteiro;Graduação;F;14/09/1962;59;27/07/2020;;Ativo;#4004;Analista I;Recursos Humanos;3897.21;280;200;4377.21;Belo Horizonte;MG;;;0.73;0.73
+201810;Tariq Velasques Massa;Divorciado;Mestrado;M;03/02/1982;39;28/07/2020;22/02/2021;Demitido Justa Causa;#7004;Supervisor;Recursos Humanos;8119.2;300;500;8919.2;São Paulo;SP;;;;
+201811;William Carlos Zero Da Silva;Casado;Pós Graduação;M;15/07/1975;46;04/08/2020;;Ativo;#4006;Analista I;Logística;3908.35;280;300;4488.35;Belo Horizonte;MG;;;0.74;0.74
+201812;Jose Netto;Solteiro;Pós Graduação;M;24/06/1976;45;04/08/2020;;Ativo;#4002;Analista I;Financeiro;4457.08;250;300;5007.08;Rio de Janeiro;RJ;;;0.97;0.97
+201813;Aides Arruda Gato;Solteiro;Pós Graduação;F;15/06/2000;21;15/08/2020;18/04/2021;Demitido Sem Justa Causa;#4004;Analista I;Recursos Humanos;3897.21;280;300;4477.21;Belo Horizonte;MG;;;;
+201814;Magnus Albuquerque Roma;Solteiro;Pós Graduação;M;06/09/1970;51;16/08/2020;23/01/2021;Demitido Justa Causa;#1005;Estagiário;Operacional;1100;300;300;1700;São Paulo;SP;;;;
+201815;Jessica Silva;Casado;Mestrado;F;10/03/1981;40;19/08/2020;07/04/2021;Demitido Sem Justa Causa;#7001;Supervisor;TI;8291.2;300;500;9091.2;São Paulo;SP;;;;
+201816;Dalrilene Andrade Andrada;Solteiro;Graduação;F;07/08/1984;37;23/08/2020;;Ativo;#3001;Assistente;TI;2387.86;300;200;2887.86;São Paulo;SP;;;1;1
+201817;Jakson Alquati;Solteiro;Graduação;M;09/10/1980;40;25/08/2020;11/01/2021;Demitido Sem Justa Causa;#5002;Analista II;Financeiro;5942.78;280;200;6422.78;Belo Horizonte;MG;;;;
+201818;Guillermo Gouveia Curado;Casado;Graduação;M;25/06/1964;57;27/08/2020;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;;;0.7;0.7
+201819;Orlandia Vilhena Pimenta;Casado;Graduação;F;26/07/1969;52;28/08/2020;27/04/2021;Saída por Vontade do Colaborador;#4005;Analista I;Operacional;4255.1;250;200;4705.1;Rio de Janeiro;RJ;;;;
+201820;Naciel Queirós Portugal;Casado;Graduação;M;07/06/1980;41;07/09/2020;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;;;0.85;0.85
+201821;Arlex Teles Dambros;Casado;Graduação Incompleta;M;30/05/1966;55;11/09/2020;28/12/2020;Demitido Justa Causa;#1004;Estagiário;Recursos Humanos;1100;280;0;1380;Belo Horizonte;MG;;;;
+201822;Adimar Junqueira Brasiliense;Solteiro;Graduação;M;25/08/1979;42;13/09/2020;;Ativo;#3006;Assistente;Logística;2345.01;210;200;2755.01;Vitória;ES;;;0.74;0.74
+201823;Crescencio Homem Locatelli;União Estável;Graduação;M;22/03/1971;50;16/09/2020;;Ativo;#3004;Assistente;Recursos Humanos;2338.32;250;200;2788.32;Rio de Janeiro;RJ;;;0.76;0.76
+201824;Gilclebson Pinto Santana;Solteiro;Pós Graduação;M;30/09/1971;50;17/09/2020;;Ativo;#5001;Analista II;TI;5306.36;300;300;5906.36;São Paulo;SP;;;0.87;0.87
+201825;Jesielma Coentrão Figo;Solteiro;Graduação;F;18/08/1960;61;22/09/2020;;Ativo;#3001;Assistente;TI;2387.86;280;200;2867.86;Belo Horizonte;MG;;;0.81;0.81
+201826;Ildene Faleiros Quaresma;Casado;Pós Graduação;F;26/03/1964;57;22/09/2020;28/05/2021;Saída por Vontade do Colaborador;#7004;Supervisor;Recursos Humanos;8119.2;280;300;8699.2;Belo Horizonte;MG;;;;
+201827;Rerison Sanches Adorno;Casado;Graduação;M;15/08/1996;25;06/10/2020;;Ativo;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;;;0.91;0.91
+201828;Aurileia Queirós Sanches;Solteiro;Graduação;F;29/06/1970;51;16/10/2020;;Ativo;#3006;Assistente;Logística;2345.01;280;200;2825.01;Belo Horizonte;MG;;;0.9;0.9
+201829;Geoneide Eça Paes;Solteiro;Graduação Incompleta;F;11/05/1970;51;20/10/2020;28/02/2021;Demitido Justa Causa;#1002;Estagiário;Financeiro;1100;250;0;1350;Rio de Janeiro;RJ;;;;
+201830;Genimara Amor Ramos;Divorciado;Pós Graduação;F;25/05/1993;28;21/10/2020;04/06/2021;Demitido Justa Causa;#5002;Analista II;Financeiro;5942.78;280;300;6522.78;Belo Horizonte;MG;;;;
+201831;Auzenir Sacramento Constante;Solteiro;Graduação;F;11/05/1986;35;22/10/2020;31/05/2021;Demitido Justa Causa;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;;
+201832;Ivamar Camacho Macedo;Divorciado;Graduação;M;23/02/1989;32;22/10/2020;;Ativo;#5006;Analista II;Logística;5211.13;210;200;5621.13;Vitória;ES;;;0.76;0.76
+201833;Luana Biguetti;Solteiro;Graduação;F;20/06/1989;32;31/10/2020;;Ativo;#5003;Analista II;Comercial;5953.02;280;200;6433.02;Belo Horizonte;MG;;;0.7;0.7
+201834;Alexsander Silveira;Casado;Pós Graduação;M;19/02/1963;58;03/11/2020;21/04/2021;Demitido Justa Causa;#7005;Supervisor;Operacional;8864.8;300;300;9464.8;São Paulo;SP;;;;
+201835;Raiane Santos;Casado;Pós Graduação;F;25/09/1978;43;06/11/2020;;Ativo;#6003;Analista III;Comercial;7441.28;210;300;7951.28;Vitória;ES;;;0.7;0.7
+201836;Thalia Gonçalves De Sosa;Casado;Graduação;F;23/06/1985;36;06/11/2020;29/05/2021;Demitido Justa Causa;#4005;Analista I;Operacional;4255.1;300;200;4755.1;São Paulo;SP;;;;
+201837;Dorilo Morato Camacho;Solteiro;Graduação;M;20/03/1976;45;07/11/2020;05/03/2021;Demitido Sem Justa Causa;#3002;Assistente;Financeiro;2674.25;250;200;3124.25;Rio de Janeiro;RJ;;;;
+201838;Willmar Pais Serrano;Divorciado;Mestrado;M;18/01/1989;32;07/11/2020;;Ativo;#7001;Supervisor;TI;8291.2;300;500;9091.2;São Paulo;SP;;;0.77;0.77
+201839;Durgival Zampol Barros;Casado;Graduação;M;28/03/1973;48;08/11/2020;;Ativo;#3001;Assistente;TI;2387.86;250;200;2837.86;Rio de Janeiro;RJ;;;0.72;0.72
+201840;Jeimison Falqueto Massa;Solteiro;Graduação;M;10/12/1967;53;08/11/2020;15/03/2021;Saída por Vontade do Colaborador;#3001;Assistente;TI;2387.86;210;200;2797.86;Vitória;ES;;;;
+201841;Adelar Carvalho Sanches;Solteiro;Graduação;M;29/06/1974;47;12/11/2020;;Ativo;#3002;Assistente;Financeiro;2674.25;210;200;3084.25;Vitória;ES;;;0.83;0.83
+201842;Djulio Galvão Morato;Divorciado;Graduação Incompleta;M;29/09/1980;41;15/11/2020;;Ativo;#1004;Estagiário;Recursos Humanos;1100;250;0;1350;Rio de Janeiro;RJ;;;0.82;0.82
+201843;Gabrieli Mioto;Casado;Pós Graduação;F;07/04/2002;19;23/11/2020;15/03/2021;Demitido Justa Causa;#4003;Analista I;Comercial;4464.76;250;300;5014.76;Rio de Janeiro;RJ;;;;
+201844;Bonfim Couto Chaves;Casado;Pós Graduação;M;19/10/1978;42;25/11/2020;;Ativo;#4005;Analista I;Operacional;4255.1;280;300;4835.1;Belo Horizonte;MG;;;0.91;0.91
+201845;Ades Simões Seixas;Casado;Graduação;M;24/11/1963;57;28/11/2020;;Ativo;#3006;Assistente;Logística;2345.01;300;200;2845.01;São Paulo;SP;;;0.96;0.96
+201846;Sergio Barbosa;Solteiro;Mestrado;M;22/05/1965;56;03/12/2020;;Ativo;#7002;Supervisor;Financeiro;9285.6;280;500;10065.6;Belo Horizonte;MG;;;0.83;0.83
+201847;Caxias Siqueira Álvares;Divorciado;Pós Graduação;M;30/06/1992;29;06/12/2020;06/03/2021;Demitido Sem Justa Causa;#7004;Supervisor;Recursos Humanos;8119.2;280;300;8699.2;Belo Horizonte;MG;;;;
+201848;Leoclides Madureira Azevedo;Solteiro;Graduação;M;05/08/1991;30;10/12/2020;15/03/2021;Demitido Sem Justa Causa;#3003;Assistente;Comercial;2678.86;250;200;3128.86;Rio de Janeiro;RJ;;;;
+201849;Gabriel Lima;Casado;Graduação;F;29/11/1961;59;13/12/2020;10/05/2021;Saída por Vontade do Colaborador;#4003;Analista I;Comercial;4464.76;210;200;4874.76;Vitória;ES;;;;
+201850;Aricleiton Malta Diegues;Solteiro;Graduação;M;08/11/1981;39;22/12/2020;;Ativo;#3006;Assistente;Logística;2345.01;210;200;2755.01;Vitória;ES;;;0.88;0.88
+201851;Michele Cristine Gomes;Solteiro;Graduação;F;25/05/1971;50;24/12/2020;;Ativo;#6006;Analista III;Logística;6513.92;280;200;6993.92;Belo Horizonte;MG;;;0.96;0.96
+201852;Emerval Peçanha Seixas;Casado;Graduação;M;22/10/1966;54;26/12/2020;19/05/2021;Demitido Justa Causa;#3002;Assistente;Financeiro;2674.25;300;200;3174.25;São Paulo;SP;;;;

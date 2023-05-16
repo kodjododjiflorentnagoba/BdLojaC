@@ -24,3 +24,64 @@ model Products {
   fk_Manufacturers_Code   Manufacturers @relation(fields: [Manufacturer], references: [Code])
   Manufacturer      Int
 }
+
+model funcionarios {
+  ID_RH                    Int       @id
+  Nome_Completo            String
+  Estado_Civil             String
+  Genero                   String
+  Data_de_Nascimento       DateTime?
+  Endereco                 String
+  Data_de_Contratacao      DateTime?
+  Data_de_Demissao         DateTime?
+  Salario                  String
+  cargo                    Cargo
+  area                     Area
+  HorasExtr                Int?
+  Avaliation               Decimal   @db.Decimal(10, 2)
+
+}
+
+model funcionarios2 {
+  Registro                    Int       @id
+  Nome_Completo            String
+  Estado_Civil             String
+  Escolaridade             String
+  Genero                   String
+  Data_de_Nascimento       DateTime?
+  Idade                    Int
+  Data_de_Contratacao      DateTime?
+  Data_de_Demissao         DateTime?
+  Status                   String
+  CodCargo                 String
+  cargo                    String
+  Setor                    String
+  Salario                  Decimal?   @db.Decimal(10, 2)
+  Extra_Cidade             Decimal?   @db.Decimal(10, 2)
+  Extra_Titulacao          Decimal?   @db.Decimal(10, 2)
+  Salario_Bruto            Decimal?   @db.Decimal(10, 2)
+  Cidade                   String
+  Estado                   String
+  Avaliation2018               Decimal?   @db.Decimal(10, 2)
+  Avaliation2019               Decimal?   @db.Decimal(10, 2)
+  Avaliation2020               Decimal?   @db.Decimal(10, 2)
+  Avaliation               Decimal?   @db.Decimal(10, 2)
+
+}
+
+enum Area {
+  Administrativo
+  Comercial
+  Financeiro
+  Logistica
+  Operacoes
+
+}
+
+enum Cargo {
+  Analista
+  Coordenador
+  Diretor
+  Estagiario
+  Gerente
+}
