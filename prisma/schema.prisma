@@ -69,6 +69,18 @@ model funcionarios2 {
 
 }
 
+model relatorio {
+  DATA_NF                DateTime      
+  NUM_NF                 Int @id
+  COD_PRODUTO            Int
+  COD_VENDEDOR           Int
+  CANAL_VENDAS           String
+  QTDE_ITENS             Int
+  CUSTO_UNITARIO         Decimal?   @db.Decimal(10, 2)
+  PRECO_UNITARIO         Decimal?   @db.Decimal(10, 2)
+
+}
+
 enum Area {
   Administrativo
   Comercial
