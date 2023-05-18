@@ -9,91 +9,56 @@ datasource db {
 }
 
 model Manufacturers {
-  Code              Int       @id @default(autoincrement())
-  Name              String
+  COD_FABRICANTE             String       @id 
+  NOME_FABRICANTE            String 
 
   productss Products[] 
 
 }
 
 model Products {
-  Code              Int       @id @default(autoincrement())
-  Name              String
+  Code              Int       @id 
+  NOME_PRODUTO      String
   Price             Decimal   @db.Decimal(10, 2)
 
-  fk_Manufacturers_Code   Manufacturers @relation(fields: [Manufacturer], references: [Code])
-  Manufacturer      Int
+  fk_Manufacturers_Code   Manufacturers @relation(fields: [Manufacturer], references: [COD_FABRICANTE])
+  Manufacturer      String 
 }
 
 model funcionarios {
-  ID_RH                    Int       @id
+  COD_VENDEDOR             Int       @id
   Nome_Completo            String
-  Estado_Civil             String
-  Genero                   String
-  Data_de_Nascimento       DateTime?
-  Endereco                 String
-  Data_de_Contratacao      DateTime?
-  Data_de_Demissao         DateTime?
-  Salario                  String
-  cargo                    Cargo
-  area                     Area
-  HorasExtr                Int?
-  Avaliation               Decimal   @db.Decimal(10, 2)
+
+  relatorios relatorio[]
 
 }
 
-model funcionarios2 {
-  Registro                    Int       @id
-  Nome_Completo            String
-  Estado_Civil             String
-  Escolaridade             String
-  Genero                   String
-  Data_de_Nascimento       DateTime?
-  Idade                    Int
-  Data_de_Contratacao      DateTime?
-  Data_de_Demissao         DateTime?
-  Status                   String
-  CodCargo                 String
-  cargo                    String
-  Setor                    String
-  Salario                  Decimal?   @db.Decimal(10, 2)
-  Extra_Cidade             Decimal?   @db.Decimal(10, 2)
-  Extra_Titulacao          Decimal?   @db.Decimal(10, 2)
-  Salario_Bruto            Decimal?   @db.Decimal(10, 2)
-  Cidade                   String
-  Estado                   String
-  Avaliation2018               Decimal?   @db.Decimal(10, 2)
-  Avaliation2019               Decimal?   @db.Decimal(10, 2)
-  Avaliation2020               Decimal?   @db.Decimal(10, 2)
-  Avaliation               Decimal?   @db.Decimal(10, 2)
+model VENDAONLINE {
+  ID             String       @id
+  LOJA           String
+
+  relatorioLs relatorioL[]
+ 
+}
+
+model relatorioL {
+  DATA_VENDA             DateTime      
+  NUM_NF                 Int @id
+  COD_PRODUTO            Int
+  COD_LOJA               String
+  CANAL_VENDAS           String
+
+  fk_relatoriol_Code   VENDAONLINE @relation(fields: [COD_LOJA], references: [ID]) 
 
 }
 
 model relatorio {
-  DATA_NF                DateTime      
+  DATA_VENDA             DateTime      
   NUM_NF                 Int @id
   COD_PRODUTO            Int
   COD_VENDEDOR           Int
   CANAL_VENDAS           String
-  QTDE_ITENS             Int
-  CUSTO_UNITARIO         Decimal?   @db.Decimal(10, 2)
-  PRECO_UNITARIO         Decimal?   @db.Decimal(10, 2)
 
-}
+  fk_funcionarios_Code   funcionarios @relation(fields: [COD_VENDEDOR], references: [COD_VENDEDOR]) 
 
-enum Area {
-  Administrativo
-  Comercial
-  Financeiro
-  Logistica
-  Operacoes
-
-}
-
-enum Cargo {
-  Analista
-  Coordenador
-  Diretor
-  Estagiario
-  Gerente
 }
