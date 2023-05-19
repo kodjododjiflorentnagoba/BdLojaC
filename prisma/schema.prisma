@@ -33,22 +33,21 @@ model funcionarios {
 
 }
 
-model VENDAONLINE {
+model vendaonline {
   ID             String       @id
   LOJA           String
 
-  relatorioLs relatorioL[]
+  relatorioLs relatoriol[]
  
 }
 
-model relatorioL {
+model relatoriol {
   DATA_VENDA             DateTime      
-  NUM_NF                 Int @id
+  NUM_NF                 String @id
   COD_PRODUTO            Int
   COD_LOJA               String
-  CANAL_VENDAS           String
 
-  fk_relatoriol_Code   VENDAONLINE @relation(fields: [COD_LOJA], references: [ID]) 
+  fk_relatoriol_Code   vendaonline @relation(fields: [COD_LOJA], references: [ID]) 
 
 }
 
