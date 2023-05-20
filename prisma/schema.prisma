@@ -23,6 +23,8 @@ model Products {
 
   fk_Manufacturers_Code   Manufacturers @relation(fields: [Manufacturer], references: [COD_FABRICANTE])
   Manufacturer      String 
+  relatorios        relatorio[]
+  relatoriols       relatoriol[]
 }
 
 model funcionarios {
@@ -48,6 +50,7 @@ model relatoriol {
   COD_LOJA               String
 
   fk_relatoriol_Code   vendaonline @relation(fields: [COD_LOJA], references: [ID]) 
+  fk_produtosl_Code   Products @relation(fields: [COD_PRODUTO], references: [Code])
 
 }
 
@@ -58,6 +61,7 @@ model relatorio {
   COD_VENDEDOR           Int
   CANAL_VENDAS           String
 
-  fk_funcionarios_Code   funcionarios @relation(fields: [COD_VENDEDOR], references: [COD_VENDEDOR]) 
+  fk_funcionarios_Code   funcionarios @relation(fields: [COD_VENDEDOR], references: [COD_VENDEDOR])
+  fk_produtos_Code   Products @relation(fields: [COD_PRODUTO], references: [Code]) 
 
 }
