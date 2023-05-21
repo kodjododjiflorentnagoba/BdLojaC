@@ -65,3 +65,9 @@ model relatorio {
   fk_produtos_Code   Products @relation(fields: [COD_PRODUTO], references: [Code]) 
 
 }
+
+model metas {
+  valor_minimo  Int @id
+  valor_maximo  Int
+
+}
